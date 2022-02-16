@@ -1,0 +1,1381 @@
+Oligo_Sequence,Oligo_Type,Binding_Site_Start_Index,Oligo_Length,Identity_Score,GC_Content,Dimerisation Percentage Score,Dimerisation String,3 prime conserved identity,5 prime conserved identity
+CGAACAAACTAAAATGTCTGATAATGGACCCC,Primer,61.0,32.0,1.0,40.625,37.5,"  CGAACAAACTAAAATGTCTGATAATGGACCCC                             
+---|--||---|-|-|--|-|-|---||--|--------------------------------
+CCCCAGGTAATAGTCTGTAAAATCAAACAAGC                               ",32.0,32.0
+AAAATGTCTGATAATGGACCCCAAAATCAGCG,Primer,71.0,32.0,1.0,40.625,50.0,"     GCGACTAAAACCCCAGGTAATAGTCTGTAAAA                          
+-------|||||--|||---|||--|||||---------------------------------
+AAAATGTCTGATAATGGACCCCAAAATCAGCG                               ",32.0,32.0
+ATGTCTGATAATGGACCCCAAAATCAGC,Primer,74.0,28.0,1.0,42.857142857142854,57.14285714285714,"   CGACTAAAACCCCAGGTAATAGTCTGTA                        
+----|||||--|||---|||--|||||----------------------------
+ATGTCTGATAATGGACCCCAAAATCAGC                           ",28.0,28.0
+TGTCTGATAATGGACCCCAAAATCAGCG,Primer,75.0,28.0,1.0,46.42857142857143,57.14285714285714," GCGACTAAAACCCCAGGTAATAGTCTGT                          
+---|||||--|||---|||--|||||-----------------------------
+TGTCTGATAATGGACCCCAAAATCAGCG                           ",28.0,28.0
+GTCTGATAATGGACCCCAAAATCAGCGA,Primer,76.0,28.0,1.0,46.42857142857143,57.14285714285714," GTCTGATAATGGACCCCAAAATCAGCGA                          
+---|||||--|||---|||--|||||-----------------------------
+AGCGACTAAAACCCCAGGTAATAGTCTG                           ",28.0,28.0
+TCTGATAATGGACCCCAAAATCAGCGAA,Primer,77.0,28.0,1.0,42.857142857142854,57.14285714285714,"   TCTGATAATGGACCCCAAAATCAGCGAA                        
+----|||||--|||---|||--|||||----------------------------
+AAGCGACTAAAACCCCAGGTAATAGTCT                           ",28.0,28.0
+CTGATAATGGACCCCAAAATCAGCGAAA,Primer,78.0,28.0,1.0,42.857142857142854,57.14285714285714,"     CTGATAATGGACCCCAAAATCAGCGAAA                      
+-----|||||--|||---|||--|||||---------------------------
+AAAGCGACTAAAACCCCAGGTAATAGTC                           ",28.0,28.0
+AATGTCTGATAATGGACCCCAAAATCAGC,Primer,73.0,29.0,1.0,41.37931034482759,55.172413793103445,"    CGACTAAAACCCCAGGTAATAGTCTGTAA                        
+-----|||||--|||---|||--|||||-----------------------------
+AATGTCTGATAATGGACCCCAAAATCAGC                            ",29.0,29.0
+ATGTCTGATAATGGACCCCAAAATCAGCG,Primer,74.0,29.0,1.0,44.827586206896555,55.172413793103445,"  GCGACTAAAACCCCAGGTAATAGTCTGTA                          
+----|||||--|||---|||--|||||------------------------------
+ATGTCTGATAATGGACCCCAAAATCAGCG                            ",29.0,29.0
+GTCTGATAATGGACCCCAAAATCAGCGAA,Primer,76.0,29.0,1.0,44.827586206896555,55.172413793103445,"  GTCTGATAATGGACCCCAAAATCAGCGAA                          
+----|||||--|||---|||--|||||------------------------------
+AAGCGACTAAAACCCCAGGTAATAGTCTG                            ",29.0,29.0
+TCTGATAATGGACCCCAAAATCAGCGAAA,Primer,77.0,29.0,1.0,41.37931034482759,55.172413793103445,"    TCTGATAATGGACCCCAAAATCAGCGAAA                        
+-----|||||--|||---|||--|||||-----------------------------
+AAAGCGACTAAAACCCCAGGTAATAGTCT                            ",29.0,29.0
+CTGATAATGGACCCCAAAATCAGCGAAAT,Primer,78.0,29.0,1.0,41.37931034482759,55.172413793103445,"      CTGATAATGGACCCCAAAATCAGCGAAAT                      
+------|||||--|||---|||--|||||----------------------------
+TAAAGCGACTAAAACCCCAGGTAATAGTC                            ",29.0,29.0
+TGATAATGGACCCCAAAATCAGCGAAATG,Primer,79.0,29.0,1.0,41.37931034482759,48.275862068965516,"        TGATAATGGACCCCAAAATCAGCGAAATG                    
+--------||||--|||---|||--||||----------------------------
+GTAAAGCGACTAAAACCCCAGGTAATAGT                            ",29.0,29.0
+AATGTCTGATAATGGACCCCAAAATCAGCG,Primer,73.0,30.0,1.0,43.333333333333336,53.333333333333336,"   GCGACTAAAACCCCAGGTAATAGTCTGTAA                          
+-----|||||--|||---|||--|||||-------------------------------
+AATGTCTGATAATGGACCCCAAAATCAGCG                             ",30.0,30.0
+ATGTCTGATAATGGACCCCAAAATCAGCGA,Primer,74.0,30.0,1.0,43.333333333333336,60.0," AGCGACTAAAACCCCAGGTAATAGTCTGTA                            
+-|--|||||--|||---|||--|||||--|-----------------------------
+ATGTCTGATAATGGACCCCAAAATCAGCGA                             ",30.0,30.0
+TGTCTGATAATGGACCCCAAAATCAGCGAA,Primer,75.0,30.0,1.0,43.333333333333336,60.0," TGTCTGATAATGGACCCCAAAATCAGCGAA                            
+-|--|||||--|||---|||--|||||--|-----------------------------
+AAGCGACTAAAACCCCAGGTAATAGTCTGT                             ",30.0,30.0
+GTCTGATAATGGACCCCAAAATCAGCGAAA,Primer,76.0,30.0,1.0,43.333333333333336,53.333333333333336,"   GTCTGATAATGGACCCCAAAATCAGCGAAA                          
+-----|||||--|||---|||--|||||-------------------------------
+AAAGCGACTAAAACCCCAGGTAATAGTCTG                             ",30.0,30.0
+CTGATAATGGACCCCAAAATCAGCGAAATG,Primer,78.0,30.0,1.0,43.333333333333336,53.333333333333336,"       CTGATAATGGACCCCAAAATCAGCGAAATG                      
+-------|||||--|||---|||--|||||-----------------------------
+GTAAAGCGACTAAAACCCCAGGTAATAGTC                             ",30.0,30.0
+TGATAATGGACCCCAAAATCAGCGAAATGC,Primer,79.0,30.0,1.0,43.333333333333336,46.666666666666664,"         TGATAATGGACCCCAAAATCAGCGAAATGC                    
+---------||||--|||---|||--||||-----------------------------
+CGTAAAGCGACTAAAACCCCAGGTAATAGT                             ",30.0,30.0
+AAATGTCTGATAATGGACCCCAAAATCAGCG,Primer,72.0,31.0,1.0,41.935483870967744,51.61290322580645,"    GCGACTAAAACCCCAGGTAATAGTCTGTAAA                          
+------|||||--|||---|||--|||||--------------------------------
+AAATGTCTGATAATGGACCCCAAAATCAGCG                              ",31.0,31.0
+AATGTCTGATAATGGACCCCAAAATCAGCGA,Primer,73.0,31.0,1.0,41.935483870967744,58.06451612903226,"  AGCGACTAAAACCCCAGGTAATAGTCTGTAA                            
+--|--|||||--|||---|||--|||||--|------------------------------
+AATGTCTGATAATGGACCCCAAAATCAGCGA                              ",31.0,31.0
+ATGTCTGATAATGGACCCCAAAATCAGCGAA,Primer,74.0,31.0,1.0,41.935483870967744,58.06451612903226,"ATGTCTGATAATGGACCCCAAAATCAGCGAA                              
+-|--|||||--|||---|||--|||||--|-------------------------------
+AAGCGACTAAAACCCCAGGTAATAGTCTGTA                              ",31.0,31.0
+TGTCTGATAATGGACCCCAAAATCAGCGAAA,Primer,75.0,31.0,1.0,41.935483870967744,58.06451612903226,"  TGTCTGATAATGGACCCCAAAATCAGCGAAA                            
+--|--|||||--|||---|||--|||||--|------------------------------
+AAAGCGACTAAAACCCCAGGTAATAGTCTGT                              ",31.0,31.0
+GTCTGATAATGGACCCCAAAATCAGCGAAAT,Primer,76.0,31.0,1.0,41.935483870967744,51.61290322580645,"    GTCTGATAATGGACCCCAAAATCAGCGAAAT                          
+------|||||--|||---|||--|||||--------------------------------
+TAAAGCGACTAAAACCCCAGGTAATAGTCTG                              ",31.0,31.0
+TCTGATAATGGACCCCAAAATCAGCGAAATG,Primer,77.0,31.0,1.0,41.935483870967744,51.61290322580645,"      TCTGATAATGGACCCCAAAATCAGCGAAATG                        
+-------|||||--|||---|||--|||||-------------------------------
+GTAAAGCGACTAAAACCCCAGGTAATAGTCT                              ",31.0,31.0
+CTGATAATGGACCCCAAAATCAGCGAAATGC,Primer,78.0,31.0,1.0,45.16129032258064,51.61290322580645,"        CTGATAATGGACCCCAAAATCAGCGAAATGC                      
+--------|||||--|||---|||--|||||------------------------------
+CGTAAAGCGACTAAAACCCCAGGTAATAGTC                              ",31.0,31.0
+TGATAATGGACCCCAAAATCAGCGAAATGCA,Primer,79.0,31.0,1.0,41.935483870967744,45.16129032258064,"          TGATAATGGACCCCAAAATCAGCGAAATGCA                    
+----------||||--|||---|||--||||------------------------------
+ACGTAAAGCGACTAAAACCCCAGGTAATAGT                              ",31.0,31.0
+AAATGTCTGATAATGGACCCCAAAATCAGCGA,Primer,72.0,32.0,1.0,40.625,56.25,"   AGCGACTAAAACCCCAGGTAATAGTCTGTAAA                            
+---|--|||||--|||---|||--|||||--|-------------------------------
+AAATGTCTGATAATGGACCCCAAAATCAGCGA                               ",32.0,32.0
+AATGTCTGATAATGGACCCCAAAATCAGCGAA,Primer,73.0,32.0,1.0,40.625,56.25," AAGCGACTAAAACCCCAGGTAATAGTCTGTAA                              
+--|--|||||--|||---|||--|||||--|--------------------------------
+AATGTCTGATAATGGACCCCAAAATCAGCGAA                               ",32.0,32.0
+ATGTCTGATAATGGACCCCAAAATCAGCGAAA,Primer,74.0,32.0,1.0,40.625,56.25," ATGTCTGATAATGGACCCCAAAATCAGCGAAA                              
+--|--|||||--|||---|||--|||||--|--------------------------------
+AAAGCGACTAAAACCCCAGGTAATAGTCTGTA                               ",32.0,32.0
+TGTCTGATAATGGACCCCAAAATCAGCGAAAT,Primer,75.0,32.0,1.0,40.625,56.25,"   TGTCTGATAATGGACCCCAAAATCAGCGAAAT                            
+---|--|||||--|||---|||--|||||--|-------------------------------
+TAAAGCGACTAAAACCCCAGGTAATAGTCTGT                               ",32.0,32.0
+GTCTGATAATGGACCCCAAAATCAGCGAAATG,Primer,76.0,32.0,1.0,43.75,50.0,"     GTCTGATAATGGACCCCAAAATCAGCGAAATG                          
+-------|||||--|||---|||--|||||---------------------------------
+GTAAAGCGACTAAAACCCCAGGTAATAGTCTG                               ",32.0,32.0
+TCTGATAATGGACCCCAAAATCAGCGAAATGC,Primer,77.0,32.0,1.0,43.75,50.0,"       TCTGATAATGGACCCCAAAATCAGCGAAATGC                        
+--------|||||--|||---|||--|||||--------------------------------
+CGTAAAGCGACTAAAACCCCAGGTAATAGTCT                               ",32.0,32.0
+CTGATAATGGACCCCAAAATCAGCGAAATGCA,Primer,78.0,32.0,1.0,43.75,50.0,"         CTGATAATGGACCCCAAAATCAGCGAAATGCA                      
+---------|||||--|||---|||--|||||-------------------------------
+ACGTAAAGCGACTAAAACCCCAGGTAATAGTC                               ",32.0,32.0
+TGATAATGGACCCCAAAATCAGCGAAATGCAC,Primer,79.0,32.0,1.0,43.75,43.75,"           TGATAATGGACCCCAAAATCAGCGAAATGCAC                    
+-----------||||--|||---|||--||||-------------------------------
+CACGTAAAGCGACTAAAACCCCAGGTAATAGT                               ",32.0,32.0
+GATAATGGACCCCAAAATCAGCGAAATG,Primer,80.0,28.0,1.0,42.857142857142854,42.857142857142854,"         GATAATGGACCCCAAAATCAGCGAAATG                  
+---------|||--|||---|||--|||---------------------------
+GTAAAGCGACTAAAACCCCAGGTAATAG                           ",28.0,28.0
+ATAATGGACCCCAAAATCAGCGAAATGC,Primer,81.0,28.0,1.0,42.857142857142854,35.714285714285715,"           ATAATGGACCCCAAAATCAGCGAAATGC                
+-----------||--|||---|||--||---------------------------
+CGTAAAGCGACTAAAACCCCAGGTAATA                           ",28.0,28.0
+TAATGGACCCCAAAATCAGCGAAATGCA,Primer,82.0,28.0,1.0,42.857142857142854,28.57142857142857,"TAATGGACCCCAAAATCAGCGAAATGCA                           
+|------|-|--|--|--|-|------|---------------------------
+ACGTAAAGCGACTAAAACCCCAGGTAAT                           ",28.0,28.0
+AATGGACCCCAAAATCAGCGAAATGCAC,Primer,83.0,28.0,1.0,46.42857142857143,28.57142857142857,"   AATGGACCCCAAAATCAGCGAAATGCAC                        
+----||----|--|---|--|----||----------------------------
+CACGTAAAGCGACTAAAACCCCAGGTAA                           ",28.0,28.0
+ATGGACCCCAAAATCAGCGAAATGCACC,Primer,84.0,28.0,1.0,50.0,28.57142857142857," ATGGACCCCAAAATCAGCGAAATGCACC                          
+--||-|---|---------|---|-||----------------------------
+CCACGTAAAGCGACTAAAACCCCAGGTA                           ",28.0,28.0
+TGGACCCCAAAATCAGCGAAATGCACCC,Primer,85.0,28.0,1.0,53.57142857142857,28.57142857142857,"   TGGACCCCAAAATCAGCGAAATGCACCC                        
+---||-|---|---------|---|-||---------------------------
+CCCACGTAAAGCGACTAAAACCCCAGGT                           ",28.0,28.0
+GGACCCCAAAATCAGCGAAATGCACCCC,Primer,86.0,28.0,1.0,57.14285714285714,28.57142857142857,"GGACCCCAAAATCAGCGAAATGCACCCC                           
+||----||------------||----||---------------------------
+CCCCACGTAAAGCGACTAAAACCCCAGG                           ",28.0,28.0
+GACCCCAAAATCAGCGAAATGCACCCCG,Primer,87.0,28.0,1.0,57.14285714285714,28.57142857142857," GACCCCAAAATCAGCGAAATGCACCCCG                          
+-|------|--||---||--|------|---------------------------
+GCCCCACGTAAAGCGACTAAAACCCCAG                           ",28.0,28.0
+GATAATGGACCCCAAAATCAGCGAAATGC,Primer,80.0,29.0,1.0,44.827586206896555,41.37931034482759,"          GATAATGGACCCCAAAATCAGCGAAATGC                  
+----------|||--|||---|||--|||----------------------------
+CGTAAAGCGACTAAAACCCCAGGTAATAG                            ",29.0,29.0
+ATAATGGACCCCAAAATCAGCGAAATGCA,Primer,81.0,29.0,1.0,41.37931034482759,34.48275862068966,"            ATAATGGACCCCAAAATCAGCGAAATGCA                
+------------||--|||---|||--||----------------------------
+ACGTAAAGCGACTAAAACCCCAGGTAATA                            ",29.0,29.0
+TAATGGACCCCAAAATCAGCGAAATGCAC,Primer,82.0,29.0,1.0,44.827586206896555,27.586206896551722," TAATGGACCCCAAAATCAGCGAAATGCAC                           
+-|------|-|--|--|--|-|------|----------------------------
+CACGTAAAGCGACTAAAACCCCAGGTAAT                            ",29.0,29.0
+AATGGACCCCAAAATCAGCGAAATGCACC,Primer,83.0,29.0,1.0,48.275862068965516,27.586206896551722,"AATGGACCCCAAAATCAGCGAAATGCACC                            
+--||-|---|---------|---|-||------------------------------
+CCACGTAAAGCGACTAAAACCCCAGGTAA                            ",29.0,29.0
+ATGGACCCCAAAATCAGCGAAATGCACCC,Primer,84.0,29.0,1.0,51.724137931034484,27.586206896551722,"  ATGGACCCCAAAATCAGCGAAATGCACCC                          
+---||-|---|---------|---|-||-----------------------------
+CCCACGTAAAGCGACTAAAACCCCAGGTA                            ",29.0,29.0
+TGGACCCCAAAATCAGCGAAATGCACCCC,Primer,85.0,29.0,1.0,55.172413793103445,27.586206896551722,"TGGACCCCAAAATCAGCGAAATGCACCCC                            
+-||---|------|-|------|---||-----------------------------
+CCCCACGTAAAGCGACTAAAACCCCAGGT                            ",29.0,29.0
+GGACCCCAAAATCAGCGAAATGCACCCCG,Primer,86.0,29.0,1.0,58.620689655172406,27.586206896551722,"GGACCCCAAAATCAGCGAAATGCACCCCG                            
+-|------|--||---||--|------|-----------------------------
+GCCCCACGTAAAGCGACTAAAACCCCAGG                            ",29.0,29.0
+GACCCCAAAATCAGCGAAATGCACCCCGC,Primer,87.0,29.0,1.0,58.620689655172406,34.48275862068966,"             CGCCCCACGTAAAGCGACTAAAACCCCAG               
+-------------|||---||||---|||----------------------------
+GACCCCAAAATCAGCGAAATGCACCCCGC                            ",29.0,29.0
+GATAATGGACCCCAAAATCAGCGAAATGCA,Primer,80.0,30.0,1.0,43.333333333333336,40.0,"           GATAATGGACCCCAAAATCAGCGAAATGCA                  
+-----------|||--|||---|||--|||-----------------------------
+ACGTAAAGCGACTAAAACCCCAGGTAATAG                             ",30.0,30.0
+ATAATGGACCCCAAAATCAGCGAAATGCAC,Primer,81.0,30.0,1.0,43.333333333333336,33.33333333333333,"             ATAATGGACCCCAAAATCAGCGAAATGCAC                
+-------------||--|||---|||--||-----------------------------
+CACGTAAAGCGACTAAAACCCCAGGTAATA                             ",30.0,30.0
+TAATGGACCCCAAAATCAGCGAAATGCACC,Primer,82.0,30.0,1.0,46.666666666666664,26.666666666666668,"  TAATGGACCCCAAAATCAGCGAAATGCACC                           
+--|------|-|--|--|--|-|------|-----------------------------
+CCACGTAAAGCGACTAAAACCCCAGGTAAT                             ",30.0,30.0
+AATGGACCCCAAAATCAGCGAAATGCACCC,Primer,83.0,30.0,1.0,50.0,26.666666666666668," AATGGACCCCAAAATCAGCGAAATGCACCC                            
+---||-|---|---------|---|-||-------------------------------
+CCCACGTAAAGCGACTAAAACCCCAGGTAA                             ",30.0,30.0
+ATGGACCCCAAAATCAGCGAAATGCACCCC,Primer,84.0,30.0,1.0,53.333333333333336,26.666666666666668,"   ATGGACCCCAAAATCAGCGAAATGCACCCC                          
+----||-|---|---------|---|-||------------------------------
+CCCCACGTAAAGCGACTAAAACCCCAGGTA                             ",30.0,30.0
+TGGACCCCAAAATCAGCGAAATGCACCCCG,Primer,85.0,30.0,1.0,56.666666666666664,26.666666666666668,"   TGGACCCCAAAATCAGCGAAATGCACCCCG                          
+---|||------|--------|--||---|-----------------------------
+TGGACCCCAAAATCAGCGAAATGCACCCCG                             ",30.0,30.0
+GACCCCAAAATCAGCGAAATGCACCCCGCA,Primer,87.0,30.0,1.0,56.666666666666664,33.33333333333333,"            ACGCCCCACGTAAAGCGACTAAAACCCCAG                 
+-------------|||---||||---|||------------------------------
+GACCCCAAAATCAGCGAAATGCACCCCGCA                             ",30.0,30.0
+GATAATGGACCCCAAAATCAGCGAAATGCAC,Primer,80.0,31.0,1.0,45.16129032258064,38.70967741935484,"            GATAATGGACCCCAAAATCAGCGAAATGCAC                  
+------------|||--|||---|||--|||------------------------------
+CACGTAAAGCGACTAAAACCCCAGGTAATAG                              ",31.0,31.0
+ATAATGGACCCCAAAATCAGCGAAATGCACC,Primer,81.0,31.0,1.0,45.16129032258064,32.25806451612903,"              ATAATGGACCCCAAAATCAGCGAAATGCACC                
+--------------||--|||---|||--||------------------------------
+CCACGTAAAGCGACTAAAACCCCAGGTAATA                              ",31.0,31.0
+TAATGGACCCCAAAATCAGCGAAATGCACCC,Primer,82.0,31.0,1.0,48.38709677419355,25.806451612903224,"TAATGGACCCCAAAATCAGCGAAATGCACCC                              
+---||-|---|---------|---|-||---------------------------------
+CCCACGTAAAGCGACTAAAACCCCAGGTAAT                              ",31.0,31.0
+AATGGACCCCAAAATCAGCGAAATGCACCCC,Primer,83.0,31.0,1.0,51.61290322580645,25.806451612903224,"  AATGGACCCCAAAATCAGCGAAATGCACCCC                            
+----||-|---|---------|---|-||--------------------------------
+CCCCACGTAAAGCGACTAAAACCCCAGGTAA                              ",31.0,31.0
+ATGGACCCCAAAATCAGCGAAATGCACCCCG,Primer,84.0,31.0,1.0,54.83870967741935,25.806451612903224,"   ATGGACCCCAAAATCAGCGAAATGCACCCCG                           
+----|||------|--------|--||---|------------------------------
+ATGGACCCCAAAATCAGCGAAATGCACCCCG                              ",31.0,31.0
+TGGACCCCAAAATCAGCGAAATGCACCCCGC,Primer,85.0,31.0,1.0,58.06451612903226,32.25806451612903,"               CGCCCCACGTAAAGCGACTAAAACCCCAGGT               
+---------------|||---||||---|||------------------------------
+TGGACCCCAAAATCAGCGAAATGCACCCCGC                              ",31.0,31.0
+GGACCCCAAAATCAGCGAAATGCACCCCGCA,Primer,86.0,31.0,1.0,58.06451612903226,32.25806451612903,"             ACGCCCCACGTAAAGCGACTAAAACCCCAGG                 
+--------------|||---||||---|||-------------------------------
+GGACCCCAAAATCAGCGAAATGCACCCCGCA                              ",31.0,31.0
+GACCCCAAAATCAGCGAAATGCACCCCGCAT,Primer,87.0,31.0,1.0,54.83870967741935,32.25806451612903,"           TACGCCCCACGTAAAGCGACTAAAACCCCAG                   
+-------------|||---||||---|||--------------------------------
+GACCCCAAAATCAGCGAAATGCACCCCGCAT                              ",31.0,31.0
+GATAATGGACCCCAAAATCAGCGAAATGCACC,Primer,80.0,32.0,1.0,46.875,37.5,"             GATAATGGACCCCAAAATCAGCGAAATGCACC                  
+-------------|||--|||---|||--|||-------------------------------
+CCACGTAAAGCGACTAAAACCCCAGGTAATAG                               ",32.0,32.0
+ATAATGGACCCCAAAATCAGCGAAATGCACCC,Primer,81.0,32.0,1.0,46.875,31.25,"               ATAATGGACCCCAAAATCAGCGAAATGCACCC                
+---------------||--|||---|||--||-------------------------------
+CCCACGTAAAGCGACTAAAACCCCAGGTAATA                               ",32.0,32.0
+TAATGGACCCCAAAATCAGCGAAATGCACCCC,Primer,82.0,32.0,1.0,50.0,25.0,"           TAATGGACCCCAAAATCAGCGAAATGCACCCC                    
+-----------|--|-|-|-|---|----|-|-------------------------------
+TAATGGACCCCAAAATCAGCGAAATGCACCCC                               ",32.0,32.0
+AATGGACCCCAAAATCAGCGAAATGCACCCCG,Primer,83.0,32.0,1.0,53.125,25.0,"   AATGGACCCCAAAATCAGCGAAATGCACCCCG                            
+-----|||------|--------|--||---|-------------------------------
+AATGGACCCCAAAATCAGCGAAATGCACCCCG                               ",32.0,32.0
+ATGGACCCCAAAATCAGCGAAATGCACCCCGC,Primer,84.0,32.0,1.0,56.25,31.25,"                CGCCCCACGTAAAGCGACTAAAACCCCAGGTA               
+----------------|||---||||---|||-------------------------------
+ATGGACCCCAAAATCAGCGAAATGCACCCCGC                               ",32.0,32.0
+TGGACCCCAAAATCAGCGAAATGCACCCCGCA,Primer,85.0,32.0,1.0,56.25,31.25,"TGGACCCCAAAATCAGCGAAATGCACCCCGCA                               
+||--------|-|--||--|-|--------||-------------------------------
+ACGCCCCACGTAAAGCGACTAAAACCCCAGGT                               ",32.0,32.0
+GGACCCCAAAATCAGCGAAATGCACCCCGCAT,Primer,86.0,32.0,1.0,56.25,31.25,"            TACGCCCCACGTAAAGCGACTAAAACCCCAGG                   
+--------------|||---||||---|||---------------------------------
+GGACCCCAAAATCAGCGAAATGCACCCCGCAT                               ",32.0,32.0
+GACCCCAAAATCAGCGAAATGCACCCCGCATT,Primer,87.0,32.0,1.0,53.125,31.25,"       TTACGCCCCACGTAAAGCGACTAAAACCCCAG                        
+-------||--|-|-|-------|-|-|--||-------------------------------
+GACCCCAAAATCAGCGAAATGCACCCCGCATT                               ",32.0,32.0
+ACCCCAAAATCAGCGAAATGCACCCCGC,Primer,88.0,28.0,1.0,57.14285714285714,35.714285714285715,"            CGCCCCACGTAAAGCGACTAAAACCCCA               
+------------|||---||||---|||---------------------------
+ACCCCAAAATCAGCGAAATGCACCCCGC                           ",28.0,28.0
+CCCCAAAATCAGCGAAATGCACCCCGCA,Primer,89.0,28.0,1.0,57.14285714285714,35.714285714285715,"          ACGCCCCACGTAAAGCGACTAAAACCCC                 
+-----------|||---||||---|||----------------------------
+CCCCAAAATCAGCGAAATGCACCCCGCA                           ",28.0,28.0
+CCCAAAATCAGCGAAATGCACCCCGCAT,Primer,90.0,28.0,1.0,53.57142857142857,35.714285714285715,"        TACGCCCCACGTAAAGCGACTAAAACCC                   
+----------|||---||||---|||-----------------------------
+CCCAAAATCAGCGAAATGCACCCCGCAT                           ",28.0,28.0
+CCAAAATCAGCGAAATGCACCCCGCATT,Primer,91.0,28.0,1.0,50.0,35.714285714285715,"   TTACGCCCCACGTAAAGCGACTAAAACC                        
+---||--|-|-|-------|-|-|--||---------------------------
+CCAAAATCAGCGAAATGCACCCCGCATT                           ",28.0,28.0
+CAAAATCAGCGAAATGCACCCCGCATTA,Primer,92.0,28.0,1.0,46.42857142857143,35.714285714285715," ATTACGCCCCACGTAAAGCGACTAAAAC                          
+--||--|-|-|-------|-|-|--||----------------------------
+CAAAATCAGCGAAATGCACCCCGCATTA                           ",28.0,28.0
+AAAATCAGCGAAATGCACCCCGCATTAC,Primer,93.0,28.0,1.0,46.42857142857143,42.857142857142854,"         CATTACGCCCCACGTAAAGCGACTAAAA                  
+---------|-|||||-----|||||-|---------------------------
+AAAATCAGCGAAATGCACCCCGCATTAC                           ",28.0,28.0
+AAATCAGCGAAATGCACCCCGCATTACG,Primer,94.0,28.0,1.0,50.0,50.0,"       GCATTACGCCCCACGTAAAGCGACTAAA                    
+-------||-|||||-----|||||-||---------------------------
+AAATCAGCGAAATGCACCCCGCATTACG                           ",28.0,28.0
+AATCAGCGAAATGCACCCCGCATTACGT,Primer,95.0,28.0,1.0,50.0,50.0,"     TGCATTACGCCCCACGTAAAGCGACTAA                      
+------||-|||||-----|||||-||----------------------------
+AATCAGCGAAATGCACCCCGCATTACGT                           ",28.0,28.0
+ACCCCAAAATCAGCGAAATGCACCCCGCA,Primer,88.0,29.0,1.0,55.172413793103445,34.48275862068966,"           ACGCCCCACGTAAAGCGACTAAAACCCCA                 
+------------|||---||||---|||-----------------------------
+ACCCCAAAATCAGCGAAATGCACCCCGCA                            ",29.0,29.0
+CCCCAAAATCAGCGAAATGCACCCCGCAT,Primer,89.0,29.0,1.0,55.172413793103445,34.48275862068966,"         TACGCCCCACGTAAAGCGACTAAAACCCC                   
+-----------|||---||||---|||------------------------------
+CCCCAAAATCAGCGAAATGCACCCCGCAT                            ",29.0,29.0
+CCCAAAATCAGCGAAATGCACCCCGCATT,Primer,90.0,29.0,1.0,51.724137931034484,34.48275862068966,"    TTACGCCCCACGTAAAGCGACTAAAACCC                        
+----||--|-|-|-------|-|-|--||----------------------------
+CCCAAAATCAGCGAAATGCACCCCGCATT                            ",29.0,29.0
+CCAAAATCAGCGAAATGCACCCCGCATTA,Primer,91.0,29.0,1.0,48.275862068965516,34.48275862068966,"  ATTACGCCCCACGTAAAGCGACTAAAACC                          
+---||--|-|-|-------|-|-|--||-----------------------------
+CCAAAATCAGCGAAATGCACCCCGCATTA                            ",29.0,29.0
+CAAAATCAGCGAAATGCACCCCGCATTAC,Primer,92.0,29.0,1.0,48.275862068965516,41.37931034482759,"          CATTACGCCCCACGTAAAGCGACTAAAAC                  
+----------|-|||||-----|||||-|----------------------------
+CAAAATCAGCGAAATGCACCCCGCATTAC                            ",29.0,29.0
+AAAATCAGCGAAATGCACCCCGCATTACG,Primer,93.0,29.0,1.0,48.275862068965516,48.275862068965516,"        GCATTACGCCCCACGTAAAGCGACTAAAA                    
+--------||-|||||-----|||||-||----------------------------
+AAAATCAGCGAAATGCACCCCGCATTACG                            ",29.0,29.0
+AAATCAGCGAAATGCACCCCGCATTACGT,Primer,94.0,29.0,1.0,48.275862068965516,48.275862068965516,"      TGCATTACGCCCCACGTAAAGCGACTAAA                      
+-------||-|||||-----|||||-||-----------------------------
+AAATCAGCGAAATGCACCCCGCATTACGT                            ",29.0,29.0
+AATCAGCGAAATGCACCCCGCATTACGTT,Primer,95.0,29.0,1.0,48.275862068965516,55.172413793103445,"    TTGCATTACGCCCCACGTAAAGCGACTAA                        
+----|-||-|||||-----|||||-||-|----------------------------
+AATCAGCGAAATGCACCCCGCATTACGTT                            ",29.0,29.0
+ACCCCAAAATCAGCGAAATGCACCCCGCAT,Primer,88.0,30.0,1.0,53.333333333333336,33.33333333333333,"          TACGCCCCACGTAAAGCGACTAAAACCCCA                   
+------------|||---||||---|||-------------------------------
+ACCCCAAAATCAGCGAAATGCACCCCGCAT                             ",30.0,30.0
+CCCCAAAATCAGCGAAATGCACCCCGCATT,Primer,89.0,30.0,1.0,53.333333333333336,33.33333333333333,"     TTACGCCCCACGTAAAGCGACTAAAACCCC                        
+-----||--|-|-|-------|-|-|--||-----------------------------
+CCCCAAAATCAGCGAAATGCACCCCGCATT                             ",30.0,30.0
+CCCAAAATCAGCGAAATGCACCCCGCATTA,Primer,90.0,30.0,1.0,50.0,33.33333333333333,"   ATTACGCCCCACGTAAAGCGACTAAAACCC                          
+----||--|-|-|-------|-|-|--||------------------------------
+CCCAAAATCAGCGAAATGCACCCCGCATTA                             ",30.0,30.0
+CCAAAATCAGCGAAATGCACCCCGCATTAC,Primer,91.0,30.0,1.0,50.0,40.0,"           CATTACGCCCCACGTAAAGCGACTAAAACC                  
+-----------|-|||||-----|||||-|-----------------------------
+CCAAAATCAGCGAAATGCACCCCGCATTAC                             ",30.0,30.0
+CAAAATCAGCGAAATGCACCCCGCATTACG,Primer,92.0,30.0,1.0,50.0,46.666666666666664,"         GCATTACGCCCCACGTAAAGCGACTAAAAC                    
+---------||-|||||-----|||||-||-----------------------------
+CAAAATCAGCGAAATGCACCCCGCATTACG                             ",30.0,30.0
+AAAATCAGCGAAATGCACCCCGCATTACGT,Primer,93.0,30.0,1.0,46.666666666666664,46.666666666666664,"       TGCATTACGCCCCACGTAAAGCGACTAAAA                      
+--------||-|||||-----|||||-||------------------------------
+AAAATCAGCGAAATGCACCCCGCATTACGT                             ",30.0,30.0
+AAATCAGCGAAATGCACCCCGCATTACGTT,Primer,94.0,30.0,1.0,46.666666666666664,53.333333333333336,"     TTGCATTACGCCCCACGTAAAGCGACTAAA                        
+-----|-||-|||||-----|||||-||-|-----------------------------
+AAATCAGCGAAATGCACCCCGCATTACGTT                             ",30.0,30.0
+AATCAGCGAAATGCACCCCGCATTACGTTT,Primer,95.0,30.0,1.0,46.666666666666664,53.333333333333336,"   TTTGCATTACGCCCCACGTAAAGCGACTAA                          
+----|-||-|||||-----|||||-||-|------------------------------
+AATCAGCGAAATGCACCCCGCATTACGTTT                             ",30.0,30.0
+ACCCCAAAATCAGCGAAATGCACCCCGCATT,Primer,88.0,31.0,1.0,51.61290322580645,32.25806451612903,"      TTACGCCCCACGTAAAGCGACTAAAACCCCA                        
+------||--|-|-|-------|-|-|--||------------------------------
+ACCCCAAAATCAGCGAAATGCACCCCGCATT                              ",31.0,31.0
+CCCCAAAATCAGCGAAATGCACCCCGCATTA,Primer,89.0,31.0,1.0,51.61290322580645,32.25806451612903,"    ATTACGCCCCACGTAAAGCGACTAAAACCCC                          
+-----||--|-|-|-------|-|-|--||-------------------------------
+CCCCAAAATCAGCGAAATGCACCCCGCATTA                              ",31.0,31.0
+CCCAAAATCAGCGAAATGCACCCCGCATTAC,Primer,90.0,31.0,1.0,51.61290322580645,38.70967741935484,"            CATTACGCCCCACGTAAAGCGACTAAAACCC                  
+------------|-|||||-----|||||-|------------------------------
+CCCAAAATCAGCGAAATGCACCCCGCATTAC                              ",31.0,31.0
+CCAAAATCAGCGAAATGCACCCCGCATTACG,Primer,91.0,31.0,1.0,51.61290322580645,45.16129032258064,"          GCATTACGCCCCACGTAAAGCGACTAAAACC                    
+----------||-|||||-----|||||-||------------------------------
+CCAAAATCAGCGAAATGCACCCCGCATTACG                              ",31.0,31.0
+CAAAATCAGCGAAATGCACCCCGCATTACGT,Primer,92.0,31.0,1.0,48.38709677419355,45.16129032258064,"        TGCATTACGCCCCACGTAAAGCGACTAAAAC                      
+---------||-|||||-----|||||-||-------------------------------
+CAAAATCAGCGAAATGCACCCCGCATTACGT                              ",31.0,31.0
+AAAATCAGCGAAATGCACCCCGCATTACGTT,Primer,93.0,31.0,1.0,45.16129032258064,51.61290322580645,"      TTGCATTACGCCCCACGTAAAGCGACTAAAA                        
+------|-||-|||||-----|||||-||-|------------------------------
+AAAATCAGCGAAATGCACCCCGCATTACGTT                              ",31.0,31.0
+AAATCAGCGAAATGCACCCCGCATTACGTTT,Primer,94.0,31.0,1.0,45.16129032258064,51.61290322580645,"    TTTGCATTACGCCCCACGTAAAGCGACTAAA                          
+-----|-||-|||||-----|||||-||-|-------------------------------
+AAATCAGCGAAATGCACCCCGCATTACGTTT                              ",31.0,31.0
+AATCAGCGAAATGCACCCCGCATTACGTTTG,Primer,95.0,31.0,1.0,48.38709677419355,51.61290322580645,"  GTTTGCATTACGCCCCACGTAAAGCGACTAA                            
+----|-||-|||||-----|||||-||-|--------------------------------
+AATCAGCGAAATGCACCCCGCATTACGTTTG                              ",31.0,31.0
+ACCCCAAAATCAGCGAAATGCACCCCGCATTA,Primer,88.0,32.0,1.0,50.0,31.25,"     ATTACGCCCCACGTAAAGCGACTAAAACCCCA                          
+------||--|-|-|-------|-|-|--||--------------------------------
+ACCCCAAAATCAGCGAAATGCACCCCGCATTA                               ",32.0,32.0
+CCCCAAAATCAGCGAAATGCACCCCGCATTAC,Primer,89.0,32.0,1.0,53.125,37.5,"             CATTACGCCCCACGTAAAGCGACTAAAACCCC                  
+-------------|-|||||-----|||||-|-------------------------------
+CCCCAAAATCAGCGAAATGCACCCCGCATTAC                               ",32.0,32.0
+CCCAAAATCAGCGAAATGCACCCCGCATTACG,Primer,90.0,32.0,1.0,53.125,43.75,"           GCATTACGCCCCACGTAAAGCGACTAAAACCC                    
+-----------||-|||||-----|||||-||-------------------------------
+CCCAAAATCAGCGAAATGCACCCCGCATTACG                               ",32.0,32.0
+CCAAAATCAGCGAAATGCACCCCGCATTACGT,Primer,91.0,32.0,1.0,50.0,43.75,"         TGCATTACGCCCCACGTAAAGCGACTAAAACC                      
+----------||-|||||-----|||||-||--------------------------------
+CCAAAATCAGCGAAATGCACCCCGCATTACGT                               ",32.0,32.0
+CAAAATCAGCGAAATGCACCCCGCATTACGTT,Primer,92.0,32.0,1.0,46.875,50.0,"       TTGCATTACGCCCCACGTAAAGCGACTAAAAC                        
+-------|-||-|||||-----|||||-||-|-------------------------------
+CAAAATCAGCGAAATGCACCCCGCATTACGTT                               ",32.0,32.0
+AAAATCAGCGAAATGCACCCCGCATTACGTTT,Primer,93.0,32.0,1.0,43.75,50.0,"     TTTGCATTACGCCCCACGTAAAGCGACTAAAA                          
+------|-||-|||||-----|||||-||-|--------------------------------
+AAAATCAGCGAAATGCACCCCGCATTACGTTT                               ",32.0,32.0
+AAATCAGCGAAATGCACCCCGCATTACGTTTG,Primer,94.0,32.0,1.0,46.875,50.0,"   GTTTGCATTACGCCCCACGTAAAGCGACTAAA                            
+-----|-||-|||||-----|||||-||-|---------------------------------
+AAATCAGCGAAATGCACCCCGCATTACGTTTG                               ",32.0,32.0
+AATCAGCGAAATGCACCCCGCATTACGTTTGG,Primer,95.0,32.0,1.0,50.0,50.0," GGTTTGCATTACGCCCCACGTAAAGCGACTAA                              
+----|-||-|||||-----|||||-||-|----------------------------------
+AATCAGCGAAATGCACCCCGCATTACGTTTGG                               ",32.0,32.0
+AATCAGCGAAATGCACCCCGCATTACGTTTGGTG,Probe,95.0,34.0,1.0,50.0,52.94117647058824," AATCAGCGAAATGCACCCCGCATTACGTTTGGTG                                
+-|---|-||-|||||-----|||||-||-|---|---------------------------------
+GTGGTTTGCATTACGCCCCACGTAAAGCGACTAA                                 ",34.0,34.0
+ATCAGCGAAATGCACCCCGCATTACGTT,Primer,96.0,28.0,1.0,50.0,57.14285714285714,"   TTGCATTACGCCCCACGTAAAGCGACTA                        
+---|-||-|||||-----|||||-||-|---------------------------
+ATCAGCGAAATGCACCCCGCATTACGTT                           ",28.0,28.0
+TCAGCGAAATGCACCCCGCATTACGTTT,Primer,97.0,28.0,1.0,50.0,57.14285714285714," TTTGCATTACGCCCCACGTAAAGCGACT                          
+--|-||-|||||-----|||||-||-|----------------------------
+TCAGCGAAATGCACCCCGCATTACGTTT                           ",28.0,28.0
+CAGCGAAATGCACCCCGCATTACGTTTG,Primer,98.0,28.0,1.0,53.57142857142857,57.14285714285714," CAGCGAAATGCACCCCGCATTACGTTTG                          
+--|-||-|||||-----|||||-||-|----------------------------
+GTTTGCATTACGCCCCACGTAAAGCGAC                           ",28.0,28.0
+AGCGAAATGCACCCCGCATTACGTTTGG,Primer,99.0,28.0,1.0,53.57142857142857,57.14285714285714,"   AGCGAAATGCACCCCGCATTACGTTTGG                        
+---|-||-|||||-----|||||-||-|---------------------------
+GGTTTGCATTACGCCCCACGTAAAGCGA                           ",28.0,28.0
+GCGAAATGCACCCCGCATTACGTTTGGT,Primer,100.0,28.0,1.0,53.57142857142857,50.0,"GCGAAATGCACCCCGCATTACGTTTGGT                           
+-|-|||-|-|---||---|-|-|||-|----------------------------
+TGGTTTGCATTACGCCCCACGTAAAGCG                           ",28.0,28.0
+CGAAATGCACCCCGCATTACGTTTGGTG,Primer,101.0,28.0,1.0,53.57142857142857,50.0,"  CGAAATGCACCCCGCATTACGTTTGGTG                         
+--|-|||-|-|---||---|-|-|||-|---------------------------
+GTGGTTTGCATTACGCCCCACGTAAAGC                           ",28.0,28.0
+GAAATGCACCCCGCATTACGTTTGGTGG,Primer,102.0,28.0,1.0,53.57142857142857,42.857142857142854,"    GAAATGCACCCCGCATTACGTTTGGTGG                       
+-----|||-|-|---||---|-|-|||----------------------------
+GGTGGTTTGCATTACGCCCCACGTAAAG                           ",28.0,28.0
+AAATGCACCCCGCATTACGTTTGGTGGA,Primer,103.0,28.0,1.0,50.0,50.0,"   AGGTGGTTTGCATTACGCCCCACGTAAA                        
+---|-||||---|-|-|-|---||||-|---------------------------
+AAATGCACCCCGCATTACGTTTGGTGGA                           ",28.0,28.0
+ATCAGCGAAATGCACCCCGCATTACGTTT,Primer,96.0,29.0,1.0,48.275862068965516,55.172413793103445,"  TTTGCATTACGCCCCACGTAAAGCGACTA                          
+---|-||-|||||-----|||||-||-|-----------------------------
+ATCAGCGAAATGCACCCCGCATTACGTTT                            ",29.0,29.0
+TCAGCGAAATGCACCCCGCATTACGTTTG,Primer,97.0,29.0,1.0,51.724137931034484,55.172413793103445,"TCAGCGAAATGCACCCCGCATTACGTTTG                            
+--|-||-|||||-----|||||-||-|------------------------------
+GTTTGCATTACGCCCCACGTAAAGCGACT                            ",29.0,29.0
+CAGCGAAATGCACCCCGCATTACGTTTGG,Primer,98.0,29.0,1.0,55.172413793103445,55.172413793103445,"  CAGCGAAATGCACCCCGCATTACGTTTGG                          
+---|-||-|||||-----|||||-||-|-----------------------------
+GGTTTGCATTACGCCCCACGTAAAGCGAC                            ",29.0,29.0
+AGCGAAATGCACCCCGCATTACGTTTGGT,Primer,99.0,29.0,1.0,51.724137931034484,55.172413793103445,"    AGCGAAATGCACCCCGCATTACGTTTGGT                        
+----|-||-|||||-----|||||-||-|----------------------------
+TGGTTTGCATTACGCCCCACGTAAAGCGA                            ",29.0,29.0
+GCGAAATGCACCCCGCATTACGTTTGGTG,Primer,100.0,29.0,1.0,55.172413793103445,48.275862068965516," GCGAAATGCACCCCGCATTACGTTTGGTG                           
+--|-|||-|-|---||---|-|-|||-|-----------------------------
+GTGGTTTGCATTACGCCCCACGTAAAGCG                            ",29.0,29.0
+CGAAATGCACCCCGCATTACGTTTGGTGG,Primer,101.0,29.0,1.0,55.172413793103445,48.275862068965516,"   CGAAATGCACCCCGCATTACGTTTGGTGG                         
+---|-|||-|-|---||---|-|-|||-|----------------------------
+GGTGGTTTGCATTACGCCCCACGTAAAGC                            ",29.0,29.0
+GAAATGCACCCCGCATTACGTTTGGTGGA,Primer,102.0,29.0,1.0,51.724137931034484,48.275862068965516,"    AGGTGGTTTGCATTACGCCCCACGTAAAG                        
+----|-||||---|-|-|-|---||||-|----------------------------
+GAAATGCACCCCGCATTACGTTTGGTGGA                            ",29.0,29.0
+AAATGCACCCCGCATTACGTTTGGTGGAC,Primer,103.0,29.0,1.0,51.724137931034484,48.275862068965516,"  CAGGTGGTTTGCATTACGCCCCACGTAAA                          
+---|-||||---|-|-|-|---||||-|-----------------------------
+AAATGCACCCCGCATTACGTTTGGTGGAC                            ",29.0,29.0
+ATCAGCGAAATGCACCCCGCATTACGTTTG,Primer,96.0,30.0,1.0,50.0,53.333333333333336," GTTTGCATTACGCCCCACGTAAAGCGACTA                            
+---|-||-|||||-----|||||-||-|-------------------------------
+ATCAGCGAAATGCACCCCGCATTACGTTTG                             ",30.0,30.0
+TCAGCGAAATGCACCCCGCATTACGTTTGG,Primer,97.0,30.0,1.0,53.333333333333336,53.333333333333336," TCAGCGAAATGCACCCCGCATTACGTTTGG                            
+---|-||-|||||-----|||||-||-|-------------------------------
+GGTTTGCATTACGCCCCACGTAAAGCGACT                             ",30.0,30.0
+CAGCGAAATGCACCCCGCATTACGTTTGGT,Primer,98.0,30.0,1.0,53.333333333333336,53.333333333333336,"   CAGCGAAATGCACCCCGCATTACGTTTGGT                          
+----|-||-|||||-----|||||-||-|------------------------------
+TGGTTTGCATTACGCCCCACGTAAAGCGAC                             ",30.0,30.0
+AGCGAAATGCACCCCGCATTACGTTTGGTG,Primer,99.0,30.0,1.0,53.333333333333336,53.333333333333336,"     AGCGAAATGCACCCCGCATTACGTTTGGTG                        
+-----|-||-|||||-----|||||-||-|-----------------------------
+GTGGTTTGCATTACGCCCCACGTAAAGCGA                             ",30.0,30.0
+GCGAAATGCACCCCGCATTACGTTTGGTGG,Primer,100.0,30.0,1.0,56.666666666666664,46.666666666666664,"  GCGAAATGCACCCCGCATTACGTTTGGTGG                           
+---|-|||-|-|---||---|-|-|||-|------------------------------
+GGTGGTTTGCATTACGCCCCACGTAAAGCG                             ",30.0,30.0
+CGAAATGCACCCCGCATTACGTTTGGTGGA,Primer,101.0,30.0,1.0,53.333333333333336,46.666666666666664,"    CGAAATGCACCCCGCATTACGTTTGGTGGA                         
+----|-|||-|-|---||---|-|-|||-|-----------------------------
+AGGTGGTTTGCATTACGCCCCACGTAAAGC                             ",30.0,30.0
+GAAATGCACCCCGCATTACGTTTGGTGGAC,Primer,102.0,30.0,1.0,53.333333333333336,46.666666666666664,"   CAGGTGGTTTGCATTACGCCCCACGTAAAG                          
+----|-||||---|-|-|-|---||||-|------------------------------
+GAAATGCACCCCGCATTACGTTTGGTGGAC                             ",30.0,30.0
+AAATGCACCCCGCATTACGTTTGGTGGACC,Primer,103.0,30.0,1.0,53.333333333333336,46.666666666666664," CCAGGTGGTTTGCATTACGCCCCACGTAAA                            
+---|-||||---|-|-|-|---||||-|-------------------------------
+AAATGCACCCCGCATTACGTTTGGTGGACC                             ",30.0,30.0
+ATCAGCGAAATGCACCCCGCATTACGTTTGG,Primer,96.0,31.0,1.0,51.61290322580645,51.61290322580645,"ATCAGCGAAATGCACCCCGCATTACGTTTGG                              
+---|-||-|||||-----|||||-||-|---------------------------------
+GGTTTGCATTACGCCCCACGTAAAGCGACTA                              ",31.0,31.0
+TCAGCGAAATGCACCCCGCATTACGTTTGGT,Primer,97.0,31.0,1.0,51.61290322580645,51.61290322580645,"  TCAGCGAAATGCACCCCGCATTACGTTTGGT                            
+----|-||-|||||-----|||||-||-|--------------------------------
+TGGTTTGCATTACGCCCCACGTAAAGCGACT                              ",31.0,31.0
+CAGCGAAATGCACCCCGCATTACGTTTGGTG,Primer,98.0,31.0,1.0,54.83870967741935,51.61290322580645,"    CAGCGAAATGCACCCCGCATTACGTTTGGTG                          
+-----|-||-|||||-----|||||-||-|-------------------------------
+GTGGTTTGCATTACGCCCCACGTAAAGCGAC                              ",31.0,31.0
+AGCGAAATGCACCCCGCATTACGTTTGGTGG,Primer,99.0,31.0,1.0,54.83870967741935,51.61290322580645,"      AGCGAAATGCACCCCGCATTACGTTTGGTGG                        
+------|-||-|||||-----|||||-||-|------------------------------
+GGTGGTTTGCATTACGCCCCACGTAAAGCGA                              ",31.0,31.0
+GCGAAATGCACCCCGCATTACGTTTGGTGGA,Primer,100.0,31.0,1.0,54.83870967741935,45.16129032258064,"   GCGAAATGCACCCCGCATTACGTTTGGTGGA                           
+----|-|||-|-|---||---|-|-|||-|-------------------------------
+AGGTGGTTTGCATTACGCCCCACGTAAAGCG                              ",31.0,31.0
+CGAAATGCACCCCGCATTACGTTTGGTGGAC,Primer,101.0,31.0,1.0,54.83870967741935,45.16129032258064,"     CGAAATGCACCCCGCATTACGTTTGGTGGAC                         
+-----|-|||-|-|---||---|-|-|||-|------------------------------
+CAGGTGGTTTGCATTACGCCCCACGTAAAGC                              ",31.0,31.0
+GAAATGCACCCCGCATTACGTTTGGTGGACC,Primer,102.0,31.0,1.0,54.83870967741935,45.16129032258064,"  CCAGGTGGTTTGCATTACGCCCCACGTAAAG                            
+----|-||||---|-|-|-|---||||-|--------------------------------
+GAAATGCACCCCGCATTACGTTTGGTGGACC                              ",31.0,31.0
+AAATGCACCCCGCATTACGTTTGGTGGACCC,Primer,103.0,31.0,1.0,54.83870967741935,45.16129032258064,"AAATGCACCCCGCATTACGTTTGGTGGACCC                              
+---|-||||---|-|-|-|---||||-|---------------------------------
+CCCAGGTGGTTTGCATTACGCCCCACGTAAA                              ",31.0,31.0
+ATCAGCGAAATGCACCCCGCATTACGTTTGGT,Primer,96.0,32.0,1.0,50.0,50.0," ATCAGCGAAATGCACCCCGCATTACGTTTGGT                              
+----|-||-|||||-----|||||-||-|----------------------------------
+TGGTTTGCATTACGCCCCACGTAAAGCGACTA                               ",32.0,32.0
+TCAGCGAAATGCACCCCGCATTACGTTTGGTG,Primer,97.0,32.0,1.0,53.125,50.0,"   TCAGCGAAATGCACCCCGCATTACGTTTGGTG                            
+-----|-||-|||||-----|||||-||-|---------------------------------
+GTGGTTTGCATTACGCCCCACGTAAAGCGACT                               ",32.0,32.0
+CAGCGAAATGCACCCCGCATTACGTTTGGTGG,Primer,98.0,32.0,1.0,56.25,50.0,"CAGCGAAATGCACCCCGCATTACGTTTGGTGG                               
+|--|-|||-|-|---||---|-|-|||-|--|-------------------------------
+GGTGGTTTGCATTACGCCCCACGTAAAGCGAC                               ",32.0,32.0
+AGCGAAATGCACCCCGCATTACGTTTGGTGGA,Primer,99.0,32.0,1.0,53.125,50.0,"       AGCGAAATGCACCCCGCATTACGTTTGGTGGA                        
+-------|-||-|||||-----|||||-||-|-------------------------------
+AGGTGGTTTGCATTACGCCCCACGTAAAGCGA                               ",32.0,32.0
+GCGAAATGCACCCCGCATTACGTTTGGTGGAC,Primer,100.0,32.0,1.0,56.25,43.75,"    GCGAAATGCACCCCGCATTACGTTTGGTGGAC                           
+-----|-|||-|-|---||---|-|-|||-|--------------------------------
+CAGGTGGTTTGCATTACGCCCCACGTAAAGCG                               ",32.0,32.0
+CGAAATGCACCCCGCATTACGTTTGGTGGACC,Primer,101.0,32.0,1.0,56.25,43.75,"      CGAAATGCACCCCGCATTACGTTTGGTGGACC                         
+------|-|||-|-|---||---|-|-|||-|-------------------------------
+CCAGGTGGTTTGCATTACGCCCCACGTAAAGC                               ",32.0,32.0
+GAAATGCACCCCGCATTACGTTTGGTGGACCC,Primer,102.0,32.0,1.0,56.25,43.75," CCCAGGTGGTTTGCATTACGCCCCACGTAAAG                              
+----|-||||---|-|-|-|---||||-|----------------------------------
+GAAATGCACCCCGCATTACGTTTGGTGGACCC                               ",32.0,32.0
+AAATGCACCCCGCATTACGTTTGGTGGACCCT,Primer,103.0,32.0,1.0,53.125,43.75," AAATGCACCCCGCATTACGTTTGGTGGACCCT                              
+----|-||||---|-|-|-|---||||-|----------------------------------
+TCCCAGGTGGTTTGCATTACGCCCCACGTAAA                               ",32.0,32.0
+ATCAGCGAAATGCACCCCGCATTACGTTTGGTGG,Probe,96.0,34.0,1.0,52.94117647058824,47.05882352941176,"   ATCAGCGAAATGCACCCCGCATTACGTTTGGTGG                              
+------|-||-|||||-----|||||-||-|------------------------------------
+GGTGGTTTGCATTACGCCCCACGTAAAGCGACTA                                 ",34.0,34.0
+TCAGCGAAATGCACCCCGCATTACGTTTGGTGGA,Probe,97.0,34.0,1.0,52.94117647058824,52.94117647058824,"TCAGCGAAATGCACCCCGCATTACGTTTGGTGGA                                 
+||--|-|||-|-|---||---|-|-|||-|--||---------------------------------
+AGGTGGTTTGCATTACGCCCCACGTAAAGCGACT                                 ",34.0,34.0
+CAGCGAAATGCACCCCGCATTACGTTTGGTGGAC,Probe,98.0,34.0,1.0,55.88235294117647,47.05882352941176,"  CAGCGAAATGCACCCCGCATTACGTTTGGTGGAC                               
+--|--|-|||-|-|---||---|-|-|||-|--|---------------------------------
+CAGGTGGTTTGCATTACGCCCCACGTAAAGCGAC                                 ",34.0,34.0
+AGCGAAATGCACCCCGCATTACGTTTGGTGGACC,Probe,99.0,34.0,1.0,55.88235294117647,47.05882352941176,"         AGCGAAATGCACCCCGCATTACGTTTGGTGGACC                        
+---------|-||-|||||-----|||||-||-|---------------------------------
+CCAGGTGGTTTGCATTACGCCCCACGTAAAGCGA                                 ",34.0,34.0
+GCGAAATGCACCCCGCATTACGTTTGGTGGACCC,Probe,100.0,34.0,1.0,58.82352941176471,41.17647058823529,"      GCGAAATGCACCCCGCATTACGTTTGGTGGACCC                           
+-------|-|||-|-|---||---|-|-|||-|----------------------------------
+CCCAGGTGGTTTGCATTACGCCCCACGTAAAGCG                                 ",34.0,34.0
+CGAAATGCACCCCGCATTACGTTTGGTGGACCCT,Probe,101.0,34.0,1.0,55.88235294117647,41.17647058823529,"        CGAAATGCACCCCGCATTACGTTTGGTGGACCCT                         
+--------|-|||-|-|---||---|-|-|||-|---------------------------------
+TCCCAGGTGGTTTGCATTACGCCCCACGTAAAGC                                 ",34.0,34.0
+GAAATGCACCCCGCATTACGTTTGGTGGACCCTC,Probe,102.0,34.0,1.0,55.88235294117647,41.17647058823529," GAAATGCACCCCGCATTACGTTTGGTGGACCCTC                                
+-----|-||||---|-|-|-|---||||-|-------------------------------------
+CTCCCAGGTGGTTTGCATTACGCCCCACGTAAAG                                 ",34.0,34.0
+AAATGCACCCCGCATTACGTTTGGTGGACCCTCA,Probe,103.0,34.0,1.0,52.94117647058824,41.17647058823529,"   AAATGCACCCCGCATTACGTTTGGTGGACCCTCA                              
+------|-||||---|-|-|-|---||||-|------------------------------------
+ACTCCCAGGTGGTTTGCATTACGCCCCACGTAAA                                 ",34.0,34.0
+AATGCACCCCGCATTACGTTTGGTGGAC,Primer,104.0,28.0,1.0,53.57142857142857,50.0," CAGGTGGTTTGCATTACGCCCCACGTAA                          
+--|-||||---|-|-|-|---||||-|----------------------------
+AATGCACCCCGCATTACGTTTGGTGGAC                           ",28.0,28.0
+ATGCACCCCGCATTACGTTTGGTGGACC,Primer,105.0,28.0,1.0,57.14285714285714,50.0," ATGCACCCCGCATTACGTTTGGTGGACC                          
+--|-||||---|-|-|-|---||||-|----------------------------
+CCAGGTGGTTTGCATTACGCCCCACGTA                           ",28.0,28.0
+ACCCCGCATTACGTTTGGTGGACCCTCA,Primer,109.0,28.0,1.0,57.14285714285714,35.714285714285715,"    ACCCCGCATTACGTTTGGTGGACCCTCA                       
+-------||-|---||||---|-||------------------------------
+ACTCCCAGGTGGTTTGCATTACGCCCCA                           ",28.0,28.0
+CCCGCATTACGTTTGGTGGACCCTCAGA,Primer,111.0,28.0,1.0,57.14285714285714,35.714285714285715,"        CCCGCATTACGTTTGGTGGACCCTCAGA                   
+---------||-|---||||---|-||----------------------------
+AGACTCCCAGGTGGTTTGCATTACGCCC                           ",28.0,28.0
+AATGCACCCCGCATTACGTTTGGTGGACC,Primer,104.0,29.0,1.0,55.172413793103445,48.275862068965516,"AATGCACCCCGCATTACGTTTGGTGGACC                            
+--|-||||---|-|-|-|---||||-|------------------------------
+CCAGGTGGTTTGCATTACGCCCCACGTAA                            ",29.0,29.0
+ATGCACCCCGCATTACGTTTGGTGGACCC,Primer,105.0,29.0,1.0,58.620689655172406,48.275862068965516,"  ATGCACCCCGCATTACGTTTGGTGGACCC                          
+---|-||||---|-|-|-|---||||-|-----------------------------
+CCCAGGTGGTTTGCATTACGCCCCACGTA                            ",29.0,29.0
+TGCACCCCGCATTACGTTTGGTGGACCCT,Primer,106.0,29.0,1.0,58.620689655172406,48.275862068965516,"    TGCACCCCGCATTACGTTTGGTGGACCCT                        
+----|-||||---|-|-|-|---||||-|----------------------------
+TCCCAGGTGGTTTGCATTACGCCCCACGT                            ",29.0,29.0
+CACCCCGCATTACGTTTGGTGGACCCTCA,Primer,108.0,29.0,1.0,58.620689655172406,41.37931034482759,"        CACCCCGCATTACGTTTGGTGGACCCTCA                    
+--------||||---|-|-|-|---||||----------------------------
+ACTCCCAGGTGGTTTGCATTACGCCCCAC                            ",29.0,29.0
+ACCCCGCATTACGTTTGGTGGACCCTCAG,Primer,109.0,29.0,1.0,58.620689655172406,34.48275862068966,"     ACCCCGCATTACGTTTGGTGGACCCTCAG                       
+--------||-|---||||---|-||-------------------------------
+GACTCCCAGGTGGTTTGCATTACGCCCCA                            ",29.0,29.0
+CCCCGCATTACGTTTGGTGGACCCTCAGA,Primer,110.0,29.0,1.0,58.620689655172406,34.48275862068966,"       CCCCGCATTACGTTTGGTGGACCCTCAGA                     
+---------||-|---||||---|-||------------------------------
+AGACTCCCAGGTGGTTTGCATTACGCCCC                            ",29.0,29.0
+CCCGCATTACGTTTGGTGGACCCTCAGAT,Primer,111.0,29.0,1.0,55.172413793103445,34.48275862068966,"         CCCGCATTACGTTTGGTGGACCCTCAGAT                   
+----------||-|---||||---|-||-----------------------------
+TAGACTCCCAGGTGGTTTGCATTACGCCC                            ",29.0,29.0
+AATGCACCCCGCATTACGTTTGGTGGACCC,Primer,104.0,30.0,1.0,56.666666666666664,46.666666666666664," AATGCACCCCGCATTACGTTTGGTGGACCC                            
+---|-||||---|-|-|-|---||||-|-------------------------------
+CCCAGGTGGTTTGCATTACGCCCCACGTAA                             ",30.0,30.0
+ATGCACCCCGCATTACGTTTGGTGGACCCT,Primer,105.0,30.0,1.0,56.666666666666664,46.666666666666664,"   ATGCACCCCGCATTACGTTTGGTGGACCCT                          
+----|-||||---|-|-|-|---||||-|------------------------------
+TCCCAGGTGGTTTGCATTACGCCCCACGTA                             ",30.0,30.0
+ACCCCGCATTACGTTTGGTGGACCCTCAGA,Primer,109.0,30.0,1.0,56.666666666666664,33.33333333333333,"      ACCCCGCATTACGTTTGGTGGACCCTCAGA                       
+---------||-|---||||---|-||--------------------------------
+AGACTCCCAGGTGGTTTGCATTACGCCCCA                             ",30.0,30.0
+CCCCGCATTACGTTTGGTGGACCCTCAGAT,Primer,110.0,30.0,1.0,56.666666666666664,33.33333333333333,"        CCCCGCATTACGTTTGGTGGACCCTCAGAT                     
+----------||-|---||||---|-||-------------------------------
+TAGACTCCCAGGTGGTTTGCATTACGCCCC                             ",30.0,30.0
+CCCGCATTACGTTTGGTGGACCCTCAGATT,Primer,111.0,30.0,1.0,53.333333333333336,33.33333333333333,"          CCCGCATTACGTTTGGTGGACCCTCAGATT                   
+-----------||-|---||||---|-||------------------------------
+TTAGACTCCCAGGTGGTTTGCATTACGCCC                             ",30.0,30.0
+AATGCACCCCGCATTACGTTTGGTGGACCCT,Primer,104.0,31.0,1.0,54.83870967741935,45.16129032258064,"  AATGCACCCCGCATTACGTTTGGTGGACCCT                            
+----|-||||---|-|-|-|---||||-|--------------------------------
+TCCCAGGTGGTTTGCATTACGCCCCACGTAA                              ",31.0,31.0
+ATGCACCCCGCATTACGTTTGGTGGACCCTC,Primer,105.0,31.0,1.0,58.06451612903226,45.16129032258064,"    ATGCACCCCGCATTACGTTTGGTGGACCCTC                          
+-----|-||||---|-|-|-|---||||-|-------------------------------
+CTCCCAGGTGGTTTGCATTACGCCCCACGTA                              ",31.0,31.0
+TGCACCCCGCATTACGTTTGGTGGACCCTCA,Primer,106.0,31.0,1.0,58.06451612903226,45.16129032258064,"      TGCACCCCGCATTACGTTTGGTGGACCCTCA                        
+------|-||||---|-|-|-|---||||-|------------------------------
+ACTCCCAGGTGGTTTGCATTACGCCCCACGT                              ",31.0,31.0
+CACCCCGCATTACGTTTGGTGGACCCTCAGA,Primer,108.0,31.0,1.0,58.06451612903226,38.70967741935484,"          CACCCCGCATTACGTTTGGTGGACCCTCAGA                    
+----------||||---|-|-|-|---||||------------------------------
+AGACTCCCAGGTGGTTTGCATTACGCCCCAC                              ",31.0,31.0
+ACCCCGCATTACGTTTGGTGGACCCTCAGAT,Primer,109.0,31.0,1.0,54.83870967741935,32.25806451612903,"       ACCCCGCATTACGTTTGGTGGACCCTCAGAT                       
+----------||-|---||||---|-||---------------------------------
+TAGACTCCCAGGTGGTTTGCATTACGCCCCA                              ",31.0,31.0
+CCCCGCATTACGTTTGGTGGACCCTCAGATT,Primer,110.0,31.0,1.0,54.83870967741935,32.25806451612903,"         CCCCGCATTACGTTTGGTGGACCCTCAGATT                     
+-----------||-|---||||---|-||--------------------------------
+TTAGACTCCCAGGTGGTTTGCATTACGCCCC                              ",31.0,31.0
+CCCGCATTACGTTTGGTGGACCCTCAGATTC,Primer,111.0,31.0,1.0,54.83870967741935,32.25806451612903,"           CCCGCATTACGTTTGGTGGACCCTCAGATTC                   
+------------||-|---||||---|-||-------------------------------
+CTTAGACTCCCAGGTGGTTTGCATTACGCCC                              ",31.0,31.0
+AATGCACCCCGCATTACGTTTGGTGGACCCTC,Primer,104.0,32.0,1.0,56.25,43.75,"   AATGCACCCCGCATTACGTTTGGTGGACCCTC                            
+-----|-||||---|-|-|-|---||||-|---------------------------------
+CTCCCAGGTGGTTTGCATTACGCCCCACGTAA                               ",32.0,32.0
+ATGCACCCCGCATTACGTTTGGTGGACCCTCA,Primer,105.0,32.0,1.0,56.25,43.75,"     ATGCACCCCGCATTACGTTTGGTGGACCCTCA                          
+------|-||||---|-|-|-|---||||-|--------------------------------
+ACTCCCAGGTGGTTTGCATTACGCCCCACGTA                               ",32.0,32.0
+TGCACCCCGCATTACGTTTGGTGGACCCTCAG,Primer,106.0,32.0,1.0,59.375,43.75,"       TGCACCCCGCATTACGTTTGGTGGACCCTCAG                        
+-------|-||||---|-|-|-|---||||-|-------------------------------
+GACTCCCAGGTGGTTTGCATTACGCCCCACGT                               ",32.0,32.0
+GCACCCCGCATTACGTTTGGTGGACCCTCAGA,Primer,107.0,32.0,1.0,59.375,37.5,"         GCACCCCGCATTACGTTTGGTGGACCCTCAGA                      
+----------||||---|-|-|-|---||||--------------------------------
+AGACTCCCAGGTGGTTTGCATTACGCCCCACG                               ",32.0,32.0
+CACCCCGCATTACGTTTGGTGGACCCTCAGAT,Primer,108.0,32.0,1.0,56.25,37.5,"           CACCCCGCATTACGTTTGGTGGACCCTCAGAT                    
+-----------||||---|-|-|-|---||||-------------------------------
+TAGACTCCCAGGTGGTTTGCATTACGCCCCAC                               ",32.0,32.0
+ACCCCGCATTACGTTTGGTGGACCCTCAGATT,Primer,109.0,32.0,1.0,53.125,31.25,"        ACCCCGCATTACGTTTGGTGGACCCTCAGATT                       
+-----------||-|---||||---|-||----------------------------------
+TTAGACTCCCAGGTGGTTTGCATTACGCCCCA                               ",32.0,32.0
+CCCCGCATTACGTTTGGTGGACCCTCAGATTC,Primer,110.0,32.0,1.0,56.25,31.25,"          CCCCGCATTACGTTTGGTGGACCCTCAGATTC                     
+------------||-|---||||---|-||---------------------------------
+CTTAGACTCCCAGGTGGTTTGCATTACGCCCC                               ",32.0,32.0
+CCCGCATTACGTTTGGTGGACCCTCAGATTCA,Primer,111.0,32.0,1.0,53.125,37.5,"       ACTTAGACTCCCAGGTGGTTTGCATTACGCCC                        
+-------|---|-||--||-||--||-|---|-------------------------------
+CCCGCATTACGTTTGGTGGACCCTCAGATTCA                               ",32.0,32.0
+AATGCACCCCGCATTACGTTTGGTGGACCCTCAG,Probe,104.0,34.0,1.0,55.88235294117647,41.17647058823529,"     AATGCACCCCGCATTACGTTTGGTGGACCCTCAG                            
+-------|-||||---|-|-|-|---||||-|-----------------------------------
+GACTCCCAGGTGGTTTGCATTACGCCCCACGTAA                                 ",34.0,34.0
+ATGCACCCCGCATTACGTTTGGTGGACCCTCAGA,Probe,105.0,34.0,1.0,55.88235294117647,41.17647058823529,"       ATGCACCCCGCATTACGTTTGGTGGACCCTCAGA                          
+--------|-||||---|-|-|-|---||||-|----------------------------------
+AGACTCCCAGGTGGTTTGCATTACGCCCCACGTA                                 ",34.0,34.0
+TGCACCCCGCATTACGTTTGGTGGACCCTCAGAT,Probe,106.0,34.0,1.0,55.88235294117647,41.17647058823529,"         TGCACCCCGCATTACGTTTGGTGGACCCTCAGAT                        
+---------|-||||---|-|-|-|---||||-|---------------------------------
+TAGACTCCCAGGTGGTTTGCATTACGCCCCACGT                                 ",34.0,34.0
+GCACCCCGCATTACGTTTGGTGGACCCTCAGATT,Probe,107.0,34.0,1.0,55.88235294117647,35.294117647058826,"           GCACCCCGCATTACGTTTGGTGGACCCTCAGATT                      
+------------||||---|-|-|-|---||||----------------------------------
+TTAGACTCCCAGGTGGTTTGCATTACGCCCCACG                                 ",34.0,34.0
+CACCCCGCATTACGTTTGGTGGACCCTCAGATTC,Probe,108.0,34.0,1.0,55.88235294117647,35.294117647058826,"             CACCCCGCATTACGTTTGGTGGACCCTCAGATTC                    
+-------------||||---|-|-|-|---||||---------------------------------
+CTTAGACTCCCAGGTGGTTTGCATTACGCCCCAC                                 ",34.0,34.0
+ACCCCGCATTACGTTTGGTGGACCCTCAGATTCA,Probe,109.0,34.0,1.0,52.94117647058824,35.294117647058826,"         ACTTAGACTCCCAGGTGGTTTGCATTACGCCCCA                        
+---------|---|-||--||-||--||-|---|---------------------------------
+ACCCCGCATTACGTTTGGTGGACCCTCAGATTCA                                 ",34.0,34.0
+CCGCATTACGTTTGGTGGACCCTCAGAT,Primer,112.0,28.0,1.0,53.57142857142857,35.714285714285715,"          CCGCATTACGTTTGGTGGACCCTCAGAT                 
+----------||-|---||||---|-||---------------------------
+TAGACTCCCAGGTGGTTTGCATTACGCC                           ",28.0,28.0
+CGCATTACGTTTGGTGGACCCTCAGATT,Primer,113.0,28.0,1.0,50.0,35.714285714285715,"       TTAGACTCCCAGGTGGTTTGCATTACGC                    
+---------|-||--||-||--||-|-----------------------------
+CGCATTACGTTTGGTGGACCCTCAGATT                           ",28.0,28.0
+GCATTACGTTTGGTGGACCCTCAGATTC,Primer,114.0,28.0,1.0,50.0,35.714285714285715,"     CTTAGACTCCCAGGTGGTTTGCATTACG                      
+--------|-||--||-||--||-|------------------------------
+GCATTACGTTTGGTGGACCCTCAGATTC                           ",28.0,28.0
+CATTACGTTTGGTGGACCCTCAGATTCA,Primer,115.0,28.0,1.0,46.42857142857143,42.857142857142854,"   ACTTAGACTCCCAGGTGGTTTGCATTAC                        
+---|---|-||--||-||--||-|---|---------------------------
+CATTACGTTTGGTGGACCCTCAGATTCA                           ",28.0,28.0
+ATTACGTTTGGTGGACCCTCAGATTCAA,Primer,116.0,28.0,1.0,42.857142857142854,50.0," AACTTAGACTCCCAGGTGGTTTGCATTA                          
+-||---|-||--||-||--||-|---||---------------------------
+ATTACGTTTGGTGGACCCTCAGATTCAA                           ",28.0,28.0
+TTACGTTTGGTGGACCCTCAGATTCAAC,Primer,117.0,28.0,1.0,46.42857142857143,50.0," TTACGTTTGGTGGACCCTCAGATTCAAC                          
+-||---|-||--||-||--||-|---||---------------------------
+CAACTTAGACTCCCAGGTGGTTTGCATT                           ",28.0,28.0
+TACGTTTGGTGGACCCTCAGATTCAACT,Primer,118.0,28.0,1.0,46.42857142857143,42.857142857142854,"   TACGTTTGGTGGACCCTCAGATTCAACT                        
+---|---|-||--||-||--||-|---|---------------------------
+TCAACTTAGACTCCCAGGTGGTTTGCAT                           ",28.0,28.0
+ACGTTTGGTGGACCCTCAGATTCAACTG,Primer,119.0,28.0,1.0,50.0,42.857142857142854,"     GTCAACTTAGACTCCCAGGTGGTTTGCA                      
+-------||-||--||-||--||-||-----------------------------
+ACGTTTGGTGGACCCTCAGATTCAACTG                           ",28.0,28.0
+CCGCATTACGTTTGGTGGACCCTCAGATT,Primer,112.0,29.0,1.0,51.724137931034484,34.48275862068966,"           CCGCATTACGTTTGGTGGACCCTCAGATT                 
+-----------||-|---||||---|-||----------------------------
+TTAGACTCCCAGGTGGTTTGCATTACGCC                            ",29.0,29.0
+CGCATTACGTTTGGTGGACCCTCAGATTC,Primer,113.0,29.0,1.0,51.724137931034484,34.48275862068966,"      CTTAGACTCCCAGGTGGTTTGCATTACGC                      
+---------|-||--||-||--||-|-------------------------------
+CGCATTACGTTTGGTGGACCCTCAGATTC                            ",29.0,29.0
+GCATTACGTTTGGTGGACCCTCAGATTCA,Primer,114.0,29.0,1.0,48.275862068965516,41.37931034482759,"    ACTTAGACTCCCAGGTGGTTTGCATTACG                        
+----|---|-||--||-||--||-|---|----------------------------
+GCATTACGTTTGGTGGACCCTCAGATTCA                            ",29.0,29.0
+CATTACGTTTGGTGGACCCTCAGATTCAA,Primer,115.0,29.0,1.0,44.827586206896555,48.275862068965516,"  AACTTAGACTCCCAGGTGGTTTGCATTAC                          
+--||---|-||--||-||--||-|---||----------------------------
+CATTACGTTTGGTGGACCCTCAGATTCAA                            ",29.0,29.0
+ATTACGTTTGGTGGACCCTCAGATTCAAC,Primer,116.0,29.0,1.0,44.827586206896555,48.275862068965516,"ATTACGTTTGGTGGACCCTCAGATTCAAC                            
+-||---|-||--||-||--||-|---||-----------------------------
+CAACTTAGACTCCCAGGTGGTTTGCATTA                            ",29.0,29.0
+TTACGTTTGGTGGACCCTCAGATTCAACT,Primer,117.0,29.0,1.0,44.827586206896555,48.275862068965516,"  TTACGTTTGGTGGACCCTCAGATTCAACT                          
+--||---|-||--||-||--||-|---||----------------------------
+TCAACTTAGACTCCCAGGTGGTTTGCATT                            ",29.0,29.0
+TACGTTTGGTGGACCCTCAGATTCAACTG,Primer,118.0,29.0,1.0,48.275862068965516,41.37931034482759,"    TACGTTTGGTGGACCCTCAGATTCAACTG                        
+----|---|-||--||-||--||-|---|----------------------------
+GTCAACTTAGACTCCCAGGTGGTTTGCAT                            ",29.0,29.0
+ACGTTTGGTGGACCCTCAGATTCAACTGG,Primer,119.0,29.0,1.0,51.724137931034484,41.37931034482759,"    GGTCAACTTAGACTCCCAGGTGGTTTGCA                        
+-------||-||--||-||--||-||-------------------------------
+ACGTTTGGTGGACCCTCAGATTCAACTGG                            ",29.0,29.0
+CCGCATTACGTTTGGTGGACCCTCAGATTC,Primer,112.0,30.0,1.0,53.333333333333336,33.33333333333333,"            CCGCATTACGTTTGGTGGACCCTCAGATTC                 
+------------||-|---||||---|-||-----------------------------
+CTTAGACTCCCAGGTGGTTTGCATTACGCC                             ",30.0,30.0
+CGCATTACGTTTGGTGGACCCTCAGATTCA,Primer,113.0,30.0,1.0,50.0,40.0,"     ACTTAGACTCCCAGGTGGTTTGCATTACGC                        
+-----|---|-||--||-||--||-|---|-----------------------------
+CGCATTACGTTTGGTGGACCCTCAGATTCA                             ",30.0,30.0
+GCATTACGTTTGGTGGACCCTCAGATTCAA,Primer,114.0,30.0,1.0,46.666666666666664,46.666666666666664,"   AACTTAGACTCCCAGGTGGTTTGCATTACG                          
+---||---|-||--||-||--||-|---||-----------------------------
+GCATTACGTTTGGTGGACCCTCAGATTCAA                             ",30.0,30.0
+CATTACGTTTGGTGGACCCTCAGATTCAAC,Primer,115.0,30.0,1.0,46.666666666666664,46.666666666666664," CAACTTAGACTCCCAGGTGGTTTGCATTAC                            
+--||---|-||--||-||--||-|---||------------------------------
+CATTACGTTTGGTGGACCCTCAGATTCAAC                             ",30.0,30.0
+ATTACGTTTGGTGGACCCTCAGATTCAACT,Primer,116.0,30.0,1.0,43.333333333333336,46.666666666666664," ATTACGTTTGGTGGACCCTCAGATTCAACT                            
+--||---|-||--||-||--||-|---||------------------------------
+TCAACTTAGACTCCCAGGTGGTTTGCATTA                             ",30.0,30.0
+TTACGTTTGGTGGACCCTCAGATTCAACTG,Primer,117.0,30.0,1.0,46.666666666666664,46.666666666666664,"   TTACGTTTGGTGGACCCTCAGATTCAACTG                          
+---||---|-||--||-||--||-|---||-----------------------------
+GTCAACTTAGACTCCCAGGTGGTTTGCATT                             ",30.0,30.0
+TACGTTTGGTGGACCCTCAGATTCAACTGG,Primer,118.0,30.0,1.0,50.0,40.0,"     TACGTTTGGTGGACCCTCAGATTCAACTGG                        
+-----|---|-||--||-||--||-|---|-----------------------------
+GGTCAACTTAGACTCCCAGGTGGTTTGCAT                             ",30.0,30.0
+ACGTTTGGTGGACCCTCAGATTCAACTGGC,Primer,119.0,30.0,1.0,53.333333333333336,40.0,"  CGGTCAACTTAGACTCCCAGGTGGTTTGCA                           
+--|---|-||-|-|----|-|-||-|---|-----------------------------
+ACGTTTGGTGGACCCTCAGATTCAACTGGC                             ",30.0,30.0
+CCGCATTACGTTTGGTGGACCCTCAGATTCA,Primer,112.0,31.0,1.0,51.61290322580645,38.70967741935484,"      ACTTAGACTCCCAGGTGGTTTGCATTACGCC                        
+------|---|-||--||-||--||-|---|------------------------------
+CCGCATTACGTTTGGTGGACCCTCAGATTCA                              ",31.0,31.0
+CGCATTACGTTTGGTGGACCCTCAGATTCAA,Primer,113.0,31.0,1.0,48.38709677419355,45.16129032258064,"    AACTTAGACTCCCAGGTGGTTTGCATTACGC                          
+----||---|-||--||-||--||-|---||------------------------------
+CGCATTACGTTTGGTGGACCCTCAGATTCAA                              ",31.0,31.0
+GCATTACGTTTGGTGGACCCTCAGATTCAAC,Primer,114.0,31.0,1.0,48.38709677419355,45.16129032258064,"  CAACTTAGACTCCCAGGTGGTTTGCATTACG                            
+---||---|-||--||-||--||-|---||-------------------------------
+GCATTACGTTTGGTGGACCCTCAGATTCAAC                              ",31.0,31.0
+CATTACGTTTGGTGGACCCTCAGATTCAACT,Primer,115.0,31.0,1.0,45.16129032258064,45.16129032258064,"CATTACGTTTGGTGGACCCTCAGATTCAACT                              
+--||---|-||--||-||--||-|---||--------------------------------
+TCAACTTAGACTCCCAGGTGGTTTGCATTAC                              ",31.0,31.0
+ATTACGTTTGGTGGACCCTCAGATTCAACTG,Primer,116.0,31.0,1.0,45.16129032258064,45.16129032258064,"  ATTACGTTTGGTGGACCCTCAGATTCAACTG                            
+---||---|-||--||-||--||-|---||-------------------------------
+GTCAACTTAGACTCCCAGGTGGTTTGCATTA                              ",31.0,31.0
+TTACGTTTGGTGGACCCTCAGATTCAACTGG,Primer,117.0,31.0,1.0,48.38709677419355,45.16129032258064,"    TTACGTTTGGTGGACCCTCAGATTCAACTGG                          
+----||---|-||--||-||--||-|---||------------------------------
+GGTCAACTTAGACTCCCAGGTGGTTTGCATT                              ",31.0,31.0
+TACGTTTGGTGGACCCTCAGATTCAACTGGC,Primer,118.0,31.0,1.0,51.61290322580645,38.70967741935484,"      TACGTTTGGTGGACCCTCAGATTCAACTGGC                        
+------|---|-||--||-||--||-|---|------------------------------
+CGGTCAACTTAGACTCCCAGGTGGTTTGCAT                              ",31.0,31.0
+ACGTTTGGTGGACCCTCAGATTCAACTGGCA,Primer,119.0,31.0,1.0,51.61290322580645,38.70967741935484," ACGGTCAACTTAGACTCCCAGGTGGTTTGCA                             
+--|---|-||-|-|----|-|-||-|---|-------------------------------
+ACGTTTGGTGGACCCTCAGATTCAACTGGCA                              ",31.0,31.0
+CCGCATTACGTTTGGTGGACCCTCAGATTCAA,Primer,112.0,32.0,1.0,50.0,43.75,"     AACTTAGACTCCCAGGTGGTTTGCATTACGCC                          
+-----||---|-||--||-||--||-|---||-------------------------------
+CCGCATTACGTTTGGTGGACCCTCAGATTCAA                               ",32.0,32.0
+CGCATTACGTTTGGTGGACCCTCAGATTCAAC,Primer,113.0,32.0,1.0,50.0,43.75,"   CAACTTAGACTCCCAGGTGGTTTGCATTACGC                            
+----||---|-||--||-||--||-|---||--------------------------------
+CGCATTACGTTTGGTGGACCCTCAGATTCAAC                               ",32.0,32.0
+GCATTACGTTTGGTGGACCCTCAGATTCAACT,Primer,114.0,32.0,1.0,46.875,43.75," TCAACTTAGACTCCCAGGTGGTTTGCATTACG                              
+---||---|-||--||-||--||-|---||---------------------------------
+GCATTACGTTTGGTGGACCCTCAGATTCAACT                               ",32.0,32.0
+CATTACGTTTGGTGGACCCTCAGATTCAACTG,Primer,115.0,32.0,1.0,46.875,43.75,"CATTACGTTTGGTGGACCCTCAGATTCAACTG                               
+||-|----|--|-||--||-|--|----|-||-------------------------------
+GTCAACTTAGACTCCCAGGTGGTTTGCATTAC                               ",32.0,32.0
+ATTACGTTTGGTGGACCCTCAGATTCAACTGG,Primer,116.0,32.0,1.0,46.875,43.75,"   ATTACGTTTGGTGGACCCTCAGATTCAACTGG                            
+----||---|-||--||-||--||-|---||--------------------------------
+GGTCAACTTAGACTCCCAGGTGGTTTGCATTA                               ",32.0,32.0
+TTACGTTTGGTGGACCCTCAGATTCAACTGGC,Primer,117.0,32.0,1.0,50.0,43.75,"     TTACGTTTGGTGGACCCTCAGATTCAACTGGC                          
+-----||---|-||--||-||--||-|---||-------------------------------
+CGGTCAACTTAGACTCCCAGGTGGTTTGCATT                               ",32.0,32.0
+TACGTTTGGTGGACCCTCAGATTCAACTGGCA,Primer,118.0,32.0,1.0,50.0,37.5,"       TACGTTTGGTGGACCCTCAGATTCAACTGGCA                        
+-------|---|-||--||-||--||-|---|-------------------------------
+ACGGTCAACTTAGACTCCCAGGTGGTTTGCAT                               ",32.0,32.0
+ACGTTTGGTGGACCCTCAGATTCAACTGGCAG,Primer,119.0,32.0,1.0,53.125,43.75," GACGGTCAACTTAGACTCCCAGGTGGTTTGCA                              
+-|-----||-||--||-||--||-||-----|-------------------------------
+ACGTTTGGTGGACCCTCAGATTCAACTGGCAG                               ",32.0,32.0
+CGTTTGGTGGACCCTCAGATTCAACTGG,Primer,120.0,28.0,1.0,53.57142857142857,42.857142857142854,"   GGTCAACTTAGACTCCCAGGTGGTTTGC                        
+------||-||--||-||--||-||------------------------------
+CGTTTGGTGGACCCTCAGATTCAACTGG                           ",28.0,28.0
+GTTTGGTGGACCCTCAGATTCAACTGGC,Primer,121.0,28.0,1.0,53.57142857142857,42.857142857142854,"GTTTGGTGGACCCTCAGATTCAACTGGC                           
+|---|-||-|-|----|-|-||-|---|---------------------------
+CGGTCAACTTAGACTCCCAGGTGGTTTG                           ",28.0,28.0
+TTTGGTGGACCCTCAGATTCAACTGGCA,Primer,122.0,28.0,1.0,50.0,42.857142857142854," TTTGGTGGACCCTCAGATTCAACTGGCA                          
+-----||-||--||-||--||-||-------------------------------
+ACGGTCAACTTAGACTCCCAGGTGGTTT                           ",28.0,28.0
+TTGGTGGACCCTCAGATTCAACTGGCAG,Primer,123.0,28.0,1.0,53.57142857142857,42.857142857142854,"   TTGGTGGACCCTCAGATTCAACTGGCAG                        
+------||-||--||-||--||-||------------------------------
+GACGGTCAACTTAGACTCCCAGGTGGTT                           ",28.0,28.0
+TGGTGGACCCTCAGATTCAACTGGCAGT,Primer,124.0,28.0,1.0,53.57142857142857,42.857142857142854,"     TGGTGGACCCTCAGATTCAACTGGCAGT                      
+-------||-||--||-||--||-||-----------------------------
+TGACGGTCAACTTAGACTCCCAGGTGGT                           ",28.0,28.0
+GGTGGACCCTCAGATTCAACTGGCAGTA,Primer,125.0,28.0,1.0,53.57142857142857,42.857142857142854,"       GGTGGACCCTCAGATTCAACTGGCAGTA                    
+--------||-||--||-||--||-||----------------------------
+ATGACGGTCAACTTAGACTCCCAGGTGG                           ",28.0,28.0
+GTGGACCCTCAGATTCAACTGGCAGTAA,Primer,126.0,28.0,1.0,50.0,42.857142857142854,"         GTGGACCCTCAGATTCAACTGGCAGTAA                  
+---------||-||--||-||--||-||---------------------------
+AATGACGGTCAACTTAGACTCCCAGGTG                           ",28.0,28.0
+TGGACCCTCAGATTCAACTGGCAGTAAC,Primer,127.0,28.0,1.0,50.0,42.857142857142854,"TGGACCCTCAGATTCAACTGGCAGTAAC                           
+---||---|||-|--|-|||---||------------------------------
+CAATGACGGTCAACTTAGACTCCCAGGT                           ",28.0,28.0
+CGTTTGGTGGACCCTCAGATTCAACTGGC,Primer,120.0,29.0,1.0,55.172413793103445,41.37931034482759," CGGTCAACTTAGACTCCCAGGTGGTTTGC                           
+-|---|-||-|-|----|-|-||-|---|----------------------------
+CGTTTGGTGGACCCTCAGATTCAACTGGC                            ",29.0,29.0
+GTTTGGTGGACCCTCAGATTCAACTGGCA,Primer,121.0,29.0,1.0,51.724137931034484,41.37931034482759,"GTTTGGTGGACCCTCAGATTCAACTGGCA                            
+-----||-||--||-||--||-||---------------------------------
+ACGGTCAACTTAGACTCCCAGGTGGTTTG                            ",29.0,29.0
+TTTGGTGGACCCTCAGATTCAACTGGCAG,Primer,122.0,29.0,1.0,51.724137931034484,41.37931034482759,"  TTTGGTGGACCCTCAGATTCAACTGGCAG                          
+------||-||--||-||--||-||--------------------------------
+GACGGTCAACTTAGACTCCCAGGTGGTTT                            ",29.0,29.0
+TTGGTGGACCCTCAGATTCAACTGGCAGT,Primer,123.0,29.0,1.0,51.724137931034484,41.37931034482759,"    TTGGTGGACCCTCAGATTCAACTGGCAGT                        
+-------||-||--||-||--||-||-------------------------------
+TGACGGTCAACTTAGACTCCCAGGTGGTT                            ",29.0,29.0
+TGGTGGACCCTCAGATTCAACTGGCAGTA,Primer,124.0,29.0,1.0,51.724137931034484,41.37931034482759,"      TGGTGGACCCTCAGATTCAACTGGCAGTA                      
+--------||-||--||-||--||-||------------------------------
+ATGACGGTCAACTTAGACTCCCAGGTGGT                            ",29.0,29.0
+GGTGGACCCTCAGATTCAACTGGCAGTAA,Primer,125.0,29.0,1.0,51.724137931034484,41.37931034482759,"        GGTGGACCCTCAGATTCAACTGGCAGTAA                    
+---------||-||--||-||--||-||-----------------------------
+AATGACGGTCAACTTAGACTCCCAGGTGG                            ",29.0,29.0
+GTGGACCCTCAGATTCAACTGGCAGTAAC,Primer,126.0,29.0,1.0,51.724137931034484,41.37931034482759,"          GTGGACCCTCAGATTCAACTGGCAGTAAC                  
+----------||-||--||-||--||-||----------------------------
+CAATGACGGTCAACTTAGACTCCCAGGTG                            ",29.0,29.0
+TGGACCCTCAGATTCAACTGGCAGTAACC,Primer,127.0,29.0,1.0,51.724137931034484,41.37931034482759," TGGACCCTCAGATTCAACTGGCAGTAACC                           
+----||---|||-|--|-|||---||-------------------------------
+CCAATGACGGTCAACTTAGACTCCCAGGT                            ",29.0,29.0
+CGTTTGGTGGACCCTCAGATTCAACTGGCA,Primer,120.0,30.0,1.0,53.333333333333336,40.0,"CGTTTGGTGGACCCTCAGATTCAACTGGCA                             
+-|---|-||-|-|----|-|-||-|---|------------------------------
+ACGGTCAACTTAGACTCCCAGGTGGTTTGC                             ",30.0,30.0
+GTTTGGTGGACCCTCAGATTCAACTGGCAG,Primer,121.0,30.0,1.0,53.333333333333336,40.0," GTTTGGTGGACCCTCAGATTCAACTGGCAG                            
+------||-||--||-||--||-||----------------------------------
+GACGGTCAACTTAGACTCCCAGGTGGTTTG                             ",30.0,30.0
+TTTGGTGGACCCTCAGATTCAACTGGCAGT,Primer,122.0,30.0,1.0,50.0,40.0,"   TTTGGTGGACCCTCAGATTCAACTGGCAGT                          
+-------||-||--||-||--||-||---------------------------------
+TGACGGTCAACTTAGACTCCCAGGTGGTTT                             ",30.0,30.0
+TTGGTGGACCCTCAGATTCAACTGGCAGTA,Primer,123.0,30.0,1.0,50.0,40.0,"     TTGGTGGACCCTCAGATTCAACTGGCAGTA                        
+--------||-||--||-||--||-||--------------------------------
+ATGACGGTCAACTTAGACTCCCAGGTGGTT                             ",30.0,30.0
+TGGTGGACCCTCAGATTCAACTGGCAGTAA,Primer,124.0,30.0,1.0,50.0,40.0,"       TGGTGGACCCTCAGATTCAACTGGCAGTAA                      
+---------||-||--||-||--||-||-------------------------------
+AATGACGGTCAACTTAGACTCCCAGGTGGT                             ",30.0,30.0
+GGTGGACCCTCAGATTCAACTGGCAGTAAC,Primer,125.0,30.0,1.0,53.333333333333336,40.0,"         GGTGGACCCTCAGATTCAACTGGCAGTAAC                    
+----------||-||--||-||--||-||------------------------------
+CAATGACGGTCAACTTAGACTCCCAGGTGG                             ",30.0,30.0
+GTGGACCCTCAGATTCAACTGGCAGTAACC,Primer,126.0,30.0,1.0,53.333333333333336,46.666666666666664,"GTGGACCCTCAGATTCAACTGGCAGTAACC                             
+|---||---|||-|--|-|||---||---|-----------------------------
+CCAATGACGGTCAACTTAGACTCCCAGGTG                             ",30.0,30.0
+TGGACCCTCAGATTCAACTGGCAGTAACCA,Primer,127.0,30.0,1.0,50.0,46.666666666666664,"TGGACCCTCAGATTCAACTGGCAGTAACCA                             
+|||---||---|-|--|-|---||---|||-----------------------------
+ACCAATGACGGTCAACTTAGACTCCCAGGT                             ",30.0,30.0
+CGTTTGGTGGACCCTCAGATTCAACTGGCAG,Primer,120.0,31.0,1.0,54.83870967741935,45.16129032258064,"CGTTTGGTGGACCCTCAGATTCAACTGGCAG                              
+|-----||-||--||-||--||-||-----|------------------------------
+GACGGTCAACTTAGACTCCCAGGTGGTTTGC                              ",31.0,31.0
+GTTTGGTGGACCCTCAGATTCAACTGGCAGT,Primer,121.0,31.0,1.0,51.61290322580645,38.70967741935484,"  GTTTGGTGGACCCTCAGATTCAACTGGCAGT                            
+-------||-||--||-||--||-||-----------------------------------
+TGACGGTCAACTTAGACTCCCAGGTGGTTTG                              ",31.0,31.0
+TTTGGTGGACCCTCAGATTCAACTGGCAGTA,Primer,122.0,31.0,1.0,48.38709677419355,38.70967741935484,"    TTTGGTGGACCCTCAGATTCAACTGGCAGTA                          
+--------||-||--||-||--||-||----------------------------------
+ATGACGGTCAACTTAGACTCCCAGGTGGTTT                              ",31.0,31.0
+TTGGTGGACCCTCAGATTCAACTGGCAGTAA,Primer,123.0,31.0,1.0,48.38709677419355,38.70967741935484,"TTGGTGGACCCTCAGATTCAACTGGCAGTAA                              
+||--||-----|-|---|-|-----||--||------------------------------
+AATGACGGTCAACTTAGACTCCCAGGTGGTT                              ",31.0,31.0
+TGGTGGACCCTCAGATTCAACTGGCAGTAAC,Primer,124.0,31.0,1.0,51.61290322580645,38.70967741935484,"        TGGTGGACCCTCAGATTCAACTGGCAGTAAC                      
+----------||-||--||-||--||-||--------------------------------
+CAATGACGGTCAACTTAGACTCCCAGGTGGT                              ",31.0,31.0
+GGTGGACCCTCAGATTCAACTGGCAGTAACC,Primer,125.0,31.0,1.0,54.83870967741935,45.16129032258064," CCAATGACGGTCAACTTAGACTCCCAGGTGG                             
+-|---||---|||-|--|-|||---||---|------------------------------
+GGTGGACCCTCAGATTCAACTGGCAGTAACC                              ",31.0,31.0
+GTGGACCCTCAGATTCAACTGGCAGTAACCA,Primer,126.0,31.0,1.0,51.61290322580645,45.16129032258064," GTGGACCCTCAGATTCAACTGGCAGTAACCA                             
+-|---||---|||-|--|-|||---||---|------------------------------
+ACCAATGACGGTCAACTTAGACTCCCAGGTG                              ",31.0,31.0
+TGGACCCTCAGATTCAACTGGCAGTAACCAG,Primer,127.0,31.0,1.0,51.61290322580645,45.16129032258064," TGGACCCTCAGATTCAACTGGCAGTAACCAG                             
+-|||---||---|-|--|-|---||---|||------------------------------
+GACCAATGACGGTCAACTTAGACTCCCAGGT                              ",31.0,31.0
+CGTTTGGTGGACCCTCAGATTCAACTGGCAGT,Primer,120.0,32.0,1.0,53.125,43.75," CGTTTGGTGGACCCTCAGATTCAACTGGCAGT                              
+-|-----||-||--||-||--||-||-----|-------------------------------
+TGACGGTCAACTTAGACTCCCAGGTGGTTTGC                               ",32.0,32.0
+GTTTGGTGGACCCTCAGATTCAACTGGCAGTA,Primer,121.0,32.0,1.0,50.0,37.5,"   GTTTGGTGGACCCTCAGATTCAACTGGCAGTA                            
+--------||-||--||-||--||-||------------------------------------
+ATGACGGTCAACTTAGACTCCCAGGTGGTTTG                               ",32.0,32.0
+TTTGGTGGACCCTCAGATTCAACTGGCAGTAA,Primer,122.0,32.0,1.0,46.875,37.5,"     TTTGGTGGACCCTCAGATTCAACTGGCAGTAA                          
+---------||-||--||-||--||-||-----------------------------------
+AATGACGGTCAACTTAGACTCCCAGGTGGTTT                               ",32.0,32.0
+TTGGTGGACCCTCAGATTCAACTGGCAGTAAC,Primer,123.0,32.0,1.0,50.0,37.5," TTGGTGGACCCTCAGATTCAACTGGCAGTAAC                              
+-||--||-----|-|---|-|-----||--||-------------------------------
+CAATGACGGTCAACTTAGACTCCCAGGTGGTT                               ",32.0,32.0
+TGGTGGACCCTCAGATTCAACTGGCAGTAACC,Primer,124.0,32.0,1.0,53.125,43.75,"  CCAATGACGGTCAACTTAGACTCCCAGGTGGT                             
+--|---||---|||-|--|-|||---||---|-------------------------------
+TGGTGGACCCTCAGATTCAACTGGCAGTAACC                               ",32.0,32.0
+GGTGGACCCTCAGATTCAACTGGCAGTAACCA,Primer,125.0,32.0,1.0,53.125,43.75,"GGTGGACCCTCAGATTCAACTGGCAGTAACCA                               
+-|---||---|||-|--|-|||---||---|--------------------------------
+ACCAATGACGGTCAACTTAGACTCCCAGGTGG                               ",32.0,32.0
+GTGGACCCTCAGATTCAACTGGCAGTAACCAG,Primer,126.0,32.0,1.0,53.125,43.75,"GTGGACCCTCAGATTCAACTGGCAGTAACCAG                               
+-|||---||---|-|--|-|---||---|||--------------------------------
+GACCAATGACGGTCAACTTAGACTCCCAGGTG                               ",32.0,32.0
+TGGACCCTCAGATTCAACTGGCAGTAACCAGA,Primer,127.0,32.0,1.0,50.0,43.75,"  TGGACCCTCAGATTCAACTGGCAGTAACCAGA                             
+--|||---||---|-|--|-|---||---|||-------------------------------
+AGACCAATGACGGTCAACTTAGACTCCCAGGT                               ",32.0,32.0
+GGACCCTCAGATTCAACTGGCAGTAACC,Primer,128.0,28.0,1.0,53.57142857142857,42.857142857142854,"GGACCCTCAGATTCAACTGGCAGTAACC                           
+||---||---|-|--|-|---||---||---------------------------
+CCAATGACGGTCAACTTAGACTCCCAGG                           ",28.0,28.0
+GACCCTCAGATTCAACTGGCAGTAACCA,Primer,129.0,28.0,1.0,50.0,42.857142857142854,"    GACCCTCAGATTCAACTGGCAGTAACCA                       
+-----||---|||-|--|-|||---||----------------------------
+ACCAATGACGGTCAACTTAGACTCCCAG                           ",28.0,28.0
+ACCCTCAGATTCAACTGGCAGTAACCAG,Primer,130.0,28.0,1.0,50.0,42.857142857142854,"      ACCCTCAGATTCAACTGGCAGTAACCAG                     
+------||---|||-|--|-|||---||---------------------------
+GACCAATGACGGTCAACTTAGACTCCCA                           ",28.0,28.0
+CCCTCAGATTCAACTGGCAGTAACCAGA,Primer,131.0,28.0,1.0,50.0,39.285714285714285,"  CCCTCAGATTCAACTGGCAGTAACCAGA                         
+-----||--|-|--||-|-||-|---|----------------------------
+CCCTCAGATTCAACTGGCAGTAACCAGA                           ",28.0,28.0
+CCTCAGATTCAACTGGCAGTAACCAGAA,Primer,132.0,28.0,1.0,46.42857142857143,39.285714285714285,"  CCTCAGATTCAACTGGCAGTAACCAGAA                         
+----||--|-|--||-|-||-|---|-----------------------------
+CCTCAGATTCAACTGGCAGTAACCAGAA                           ",28.0,28.0
+CTCAGATTCAACTGGCAGTAACCAGAAT,Primer,133.0,28.0,1.0,42.857142857142854,42.857142857142854,"  CTCAGATTCAACTGGCAGTAACCAGAAT                         
+---||--|-|--||-|-||-|---|--|---------------------------
+CTCAGATTCAACTGGCAGTAACCAGAAT                           ",28.0,28.0
+TCAGATTCAACTGGCAGTAACCAGAATG,Primer,134.0,28.0,1.0,42.857142857142854,42.857142857142854,"  TCAGATTCAACTGGCAGTAACCAGAATG                         
+--||--|-|--||-|-||-|---|--|----------------------------
+TCAGATTCAACTGGCAGTAACCAGAATG                           ",28.0,28.0
+CAGATTCAACTGGCAGTAACCAGAATGG,Primer,135.0,28.0,1.0,46.42857142857143,42.857142857142854," GGTAAGACCAATGACGGTCAACTTAGAC                          
+---||||---|--|-|--|---||||-----------------------------
+CAGATTCAACTGGCAGTAACCAGAATGG                           ",28.0,28.0
+GGACCCTCAGATTCAACTGGCAGTAACCA,Primer,128.0,29.0,1.0,51.724137931034484,41.37931034482759," GGACCCTCAGATTCAACTGGCAGTAACCA                           
+-||---||---|-|--|-|---||---||----------------------------
+ACCAATGACGGTCAACTTAGACTCCCAGG                            ",29.0,29.0
+GACCCTCAGATTCAACTGGCAGTAACCAG,Primer,129.0,29.0,1.0,51.724137931034484,41.37931034482759,"  GACCCTCAGATTCAACTGGCAGTAACCAG                          
+--|----||--|-|--||-|-||-|---|----------------------------
+GACCCTCAGATTCAACTGGCAGTAACCAG                            ",29.0,29.0
+ACCCTCAGATTCAACTGGCAGTAACCAGA,Primer,130.0,29.0,1.0,48.275862068965516,41.37931034482759,"       ACCCTCAGATTCAACTGGCAGTAACCAGA                     
+-------||---|||-|--|-|||---||----------------------------
+AGACCAATGACGGTCAACTTAGACTCCCA                            ",29.0,29.0
+CCCTCAGATTCAACTGGCAGTAACCAGAA,Primer,131.0,29.0,1.0,48.275862068965516,37.93103448275862,"  CCCTCAGATTCAACTGGCAGTAACCAGAA                          
+-----||--|-|--||-|-||-|---|------------------------------
+CCCTCAGATTCAACTGGCAGTAACCAGAA                            ",29.0,29.0
+CCTCAGATTCAACTGGCAGTAACCAGAAT,Primer,132.0,29.0,1.0,44.827586206896555,41.37931034482759,"  CCTCAGATTCAACTGGCAGTAACCAGAAT                          
+----||--|-|--||-|-||-|---|--|----------------------------
+CCTCAGATTCAACTGGCAGTAACCAGAAT                            ",29.0,29.0
+CTCAGATTCAACTGGCAGTAACCAGAATG,Primer,133.0,29.0,1.0,44.827586206896555,41.37931034482759,"  CTCAGATTCAACTGGCAGTAACCAGAATG                          
+---||--|-|--||-|-||-|---|--|-----------------------------
+CTCAGATTCAACTGGCAGTAACCAGAATG                            ",29.0,29.0
+TCAGATTCAACTGGCAGTAACCAGAATGG,Primer,134.0,29.0,1.0,44.827586206896555,41.37931034482759,"  TCAGATTCAACTGGCAGTAACCAGAATGG                          
+--||--|-|--||-|-||-|---|--|------------------------------
+TCAGATTCAACTGGCAGTAACCAGAATGG                            ",29.0,29.0
+CAGATTCAACTGGCAGTAACCAGAATGGA,Primer,135.0,29.0,1.0,44.827586206896555,41.37931034482759,"CAGATTCAACTGGCAGTAACCAGAATGGA                            
+---||||---|--|-|--|---||||-------------------------------
+AGGTAAGACCAATGACGGTCAACTTAGAC                            ",29.0,29.0
+GGACCCTCAGATTCAACTGGCAGTAACCAG,Primer,128.0,30.0,1.0,53.333333333333336,40.0,"  GGACCCTCAGATTCAACTGGCAGTAACCAG                           
+---|----||--|-|--||-|-||-|---|-----------------------------
+GGACCCTCAGATTCAACTGGCAGTAACCAG                             ",30.0,30.0
+GACCCTCAGATTCAACTGGCAGTAACCAGA,Primer,129.0,30.0,1.0,50.0,40.0,"  GACCCTCAGATTCAACTGGCAGTAACCAGA                           
+--|----||--|-|--||-|-||-|---|------------------------------
+GACCCTCAGATTCAACTGGCAGTAACCAGA                             ",30.0,30.0
+ACCCTCAGATTCAACTGGCAGTAACCAGAA,Primer,130.0,30.0,1.0,46.666666666666664,40.0,"        ACCCTCAGATTCAACTGGCAGTAACCAGAA                     
+--------||---|||-|--|-|||---||-----------------------------
+AAGACCAATGACGGTCAACTTAGACTCCCA                             ",30.0,30.0
+CCCTCAGATTCAACTGGCAGTAACCAGAAT,Primer,131.0,30.0,1.0,46.666666666666664,40.0,"  CCCTCAGATTCAACTGGCAGTAACCAGAAT                           
+-----||--|-|--||-|-||-|---|--|-----------------------------
+CCCTCAGATTCAACTGGCAGTAACCAGAAT                             ",30.0,30.0
+CCTCAGATTCAACTGGCAGTAACCAGAATG,Primer,132.0,30.0,1.0,46.666666666666664,40.0,"  CCTCAGATTCAACTGGCAGTAACCAGAATG                           
+----||--|-|--||-|-||-|---|--|------------------------------
+CCTCAGATTCAACTGGCAGTAACCAGAATG                             ",30.0,30.0
+CTCAGATTCAACTGGCAGTAACCAGAATGG,Primer,133.0,30.0,1.0,46.666666666666664,40.0,"  CTCAGATTCAACTGGCAGTAACCAGAATGG                           
+---||--|-|--||-|-||-|---|--|-------------------------------
+CTCAGATTCAACTGGCAGTAACCAGAATGG                             ",30.0,30.0
+TCAGATTCAACTGGCAGTAACCAGAATGGA,Primer,134.0,30.0,1.0,43.333333333333336,40.0,"  TCAGATTCAACTGGCAGTAACCAGAATGGA                           
+--||--|-|--||-|-||-|---|--|--------------------------------
+TCAGATTCAACTGGCAGTAACCAGAATGGA                             ",30.0,30.0
+CAGATTCAACTGGCAGTAACCAGAATGGAG,Primer,135.0,30.0,1.0,46.666666666666664,40.0," CAGATTCAACTGGCAGTAACCAGAATGGAG                            
+----||||---|--|-|--|---||||--------------------------------
+GAGGTAAGACCAATGACGGTCAACTTAGAC                             ",30.0,30.0
+GGACCCTCAGATTCAACTGGCAGTAACCAGA,Primer,128.0,31.0,1.0,51.61290322580645,38.70967741935484,"  GGACCCTCAGATTCAACTGGCAGTAACCAGA                            
+---|----||--|-|--||-|-||-|---|-------------------------------
+GGACCCTCAGATTCAACTGGCAGTAACCAGA                              ",31.0,31.0
+GACCCTCAGATTCAACTGGCAGTAACCAGAA,Primer,129.0,31.0,1.0,48.38709677419355,38.70967741935484,"  GACCCTCAGATTCAACTGGCAGTAACCAGAA                            
+--|----||--|-|--||-|-||-|---|--------------------------------
+GACCCTCAGATTCAACTGGCAGTAACCAGAA                              ",31.0,31.0
+ACCCTCAGATTCAACTGGCAGTAACCAGAAT,Primer,130.0,31.0,1.0,45.16129032258064,38.70967741935484,"  ACCCTCAGATTCAACTGGCAGTAACCAGAAT                            
+------||--|-|--||-|-||-|---|--|------------------------------
+ACCCTCAGATTCAACTGGCAGTAACCAGAAT                              ",31.0,31.0
+CCCTCAGATTCAACTGGCAGTAACCAGAATG,Primer,131.0,31.0,1.0,48.38709677419355,38.70967741935484,"  CCCTCAGATTCAACTGGCAGTAACCAGAATG                            
+-----||--|-|--||-|-||-|---|--|-------------------------------
+CCCTCAGATTCAACTGGCAGTAACCAGAATG                              ",31.0,31.0
+CCTCAGATTCAACTGGCAGTAACCAGAATGG,Primer,132.0,31.0,1.0,48.38709677419355,38.70967741935484,"  CCTCAGATTCAACTGGCAGTAACCAGAATGG                            
+----||--|-|--||-|-||-|---|--|--------------------------------
+CCTCAGATTCAACTGGCAGTAACCAGAATGG                              ",31.0,31.0
+CTCAGATTCAACTGGCAGTAACCAGAATGGA,Primer,133.0,31.0,1.0,45.16129032258064,38.70967741935484,"  CTCAGATTCAACTGGCAGTAACCAGAATGGA                            
+---||--|-|--||-|-||-|---|--|---------------------------------
+CTCAGATTCAACTGGCAGTAACCAGAATGGA                              ",31.0,31.0
+TCAGATTCAACTGGCAGTAACCAGAATGGAG,Primer,134.0,31.0,1.0,45.16129032258064,38.70967741935484,"  TCAGATTCAACTGGCAGTAACCAGAATGGAG                            
+--||--|-|--||-|-||-|---|--|----------------------------------
+TCAGATTCAACTGGCAGTAACCAGAATGGAG                              ",31.0,31.0
+CAGATTCAACTGGCAGTAACCAGAATGGAGA,Primer,135.0,31.0,1.0,45.16129032258064,38.70967741935484,"  CAGATTCAACTGGCAGTAACCAGAATGGAGA                            
+-----||||---|--|-|--|---||||---------------------------------
+AGAGGTAAGACCAATGACGGTCAACTTAGAC                              ",31.0,31.0
+GGACCCTCAGATTCAACTGGCAGTAACCAGAA,Primer,128.0,32.0,1.0,50.0,37.5,"  GGACCCTCAGATTCAACTGGCAGTAACCAGAA                             
+---|----||--|-|--||-|-||-|---|---------------------------------
+GGACCCTCAGATTCAACTGGCAGTAACCAGAA                               ",32.0,32.0
+GACCCTCAGATTCAACTGGCAGTAACCAGAAT,Primer,129.0,32.0,1.0,46.875,40.625,"  GACCCTCAGATTCAACTGGCAGTAACCAGAAT                             
+--|----||--|-|--||-|-||-|---|--|-------------------------------
+GACCCTCAGATTCAACTGGCAGTAACCAGAAT                               ",32.0,32.0
+ACCCTCAGATTCAACTGGCAGTAACCAGAATG,Primer,130.0,32.0,1.0,46.875,37.5,"  ACCCTCAGATTCAACTGGCAGTAACCAGAATG                             
+------||--|-|--||-|-||-|---|--|--------------------------------
+ACCCTCAGATTCAACTGGCAGTAACCAGAATG                               ",32.0,32.0
+CCCTCAGATTCAACTGGCAGTAACCAGAATGG,Primer,131.0,32.0,1.0,50.0,37.5,"  CCCTCAGATTCAACTGGCAGTAACCAGAATGG                             
+-----||--|-|--||-|-||-|---|--|---------------------------------
+CCCTCAGATTCAACTGGCAGTAACCAGAATGG                               ",32.0,32.0
+CCTCAGATTCAACTGGCAGTAACCAGAATGGA,Primer,132.0,32.0,1.0,46.875,37.5,"  CCTCAGATTCAACTGGCAGTAACCAGAATGGA                             
+----||--|-|--||-|-||-|---|--|----------------------------------
+CCTCAGATTCAACTGGCAGTAACCAGAATGGA                               ",32.0,32.0
+CTCAGATTCAACTGGCAGTAACCAGAATGGAG,Primer,133.0,32.0,1.0,46.875,37.5,"  CTCAGATTCAACTGGCAGTAACCAGAATGGAG                             
+---||--|-|--||-|-||-|---|--|-----------------------------------
+CTCAGATTCAACTGGCAGTAACCAGAATGGAG                               ",32.0,32.0
+TCAGATTCAACTGGCAGTAACCAGAATGGAGA,Primer,134.0,32.0,1.0,43.75,37.5,"  TCAGATTCAACTGGCAGTAACCAGAATGGAGA                             
+--||--|-|--||-|-||-|---|--|------------------------------------
+TCAGATTCAACTGGCAGTAACCAGAATGGAGA                               ",32.0,32.0
+CAGATTCAACTGGCAGTAACCAGAATGGAGAA,Primer,135.0,32.0,1.0,43.75,37.5,"   CAGATTCAACTGGCAGTAACCAGAATGGAGAA                            
+------||||---|--|-|--|---||||----------------------------------
+AAGAGGTAAGACCAATGACGGTCAACTTAGAC                               ",32.0,32.0
+AGATTCAACTGGCAGTAACCAGAATGGA,Primer,136.0,28.0,1.0,42.857142857142854,42.857142857142854," AGATTCAACTGGCAGTAACCAGAATGGA                          
+---||||---|--|-|--|---||||-----------------------------
+AGGTAAGACCAATGACGGTCAACTTAGA                           ",28.0,28.0
+GATTCAACTGGCAGTAACCAGAATGGAG,Primer,137.0,28.0,1.0,46.42857142857143,42.857142857142854,"   GATTCAACTGGCAGTAACCAGAATGGAG                        
+----||||---|--|-|--|---||||----------------------------
+GAGGTAAGACCAATGACGGTCAACTTAG                           ",28.0,28.0
+ATTCAACTGGCAGTAACCAGAATGGAGA,Primer,138.0,28.0,1.0,42.857142857142854,42.857142857142854,"     ATTCAACTGGCAGTAACCAGAATGGAGA                      
+-----||||---|--|-|--|---||||---------------------------
+AGAGGTAAGACCAATGACGGTCAACTTA                           ",28.0,28.0
+TTCAACTGGCAGTAACCAGAATGGAGAA,Primer,139.0,28.0,1.0,42.857142857142854,42.857142857142854,"TTCAACTGGCAGTAACCAGAATGGAGAA                           
+|||--|---|-|----|-|---|--|||---------------------------
+AAGAGGTAAGACCAATGACGGTCAACTT                           ",28.0,28.0
+TCAACTGGCAGTAACCAGAATGGAGAAC,Primer,140.0,28.0,1.0,46.42857142857143,35.714285714285715,"  TCAACTGGCAGTAACCAGAATGGAGAAC                         
+--||--|---|-|----|-|---|--||---------------------------
+CAAGAGGTAAGACCAATGACGGTCAACT                           ",28.0,28.0
+CAACTGGCAGTAACCAGAATGGAGAACG,Primer,141.0,28.0,1.0,50.0,35.714285714285715,"       GCAAGAGGTAAGACCAATGACGGTCAAC                    
+-------|--|--|||---|||--|--|---------------------------
+CAACTGGCAGTAACCAGAATGGAGAACG                           ",28.0,28.0
+AACTGGCAGTAACCAGAATGGAGAACGC,Primer,142.0,28.0,1.0,50.0,42.857142857142854,"     CGCAAGAGGTAAGACCAATGACGGTCAA                      
+-----||--|--|||---|||--|--||---------------------------
+AACTGGCAGTAACCAGAATGGAGAACGC                           ",28.0,28.0
+ACTGGCAGTAACCAGAATGGAGAACGCA,Primer,143.0,28.0,1.0,50.0,42.857142857142854,"   ACGCAAGAGGTAAGACCAATGACGGTCA                        
+----||--|--|||---|||--|--||----------------------------
+ACTGGCAGTAACCAGAATGGAGAACGCA                           ",28.0,28.0
+AGATTCAACTGGCAGTAACCAGAATGGAG,Primer,136.0,29.0,1.0,44.827586206896555,41.37931034482759,"  AGATTCAACTGGCAGTAACCAGAATGGAG                          
+----||||---|--|-|--|---||||------------------------------
+GAGGTAAGACCAATGACGGTCAACTTAGA                            ",29.0,29.0
+GATTCAACTGGCAGTAACCAGAATGGAGA,Primer,137.0,29.0,1.0,44.827586206896555,41.37931034482759,"    GATTCAACTGGCAGTAACCAGAATGGAGA                        
+-----||||---|--|-|--|---||||-----------------------------
+AGAGGTAAGACCAATGACGGTCAACTTAG                            ",29.0,29.0
+ATTCAACTGGCAGTAACCAGAATGGAGAA,Primer,138.0,29.0,1.0,41.37931034482759,41.37931034482759,"      ATTCAACTGGCAGTAACCAGAATGGAGAA                      
+------||||---|--|-|--|---||||----------------------------
+AAGAGGTAAGACCAATGACGGTCAACTTA                            ",29.0,29.0
+TTCAACTGGCAGTAACCAGAATGGAGAAC,Primer,139.0,29.0,1.0,44.827586206896555,41.37931034482759," TTCAACTGGCAGTAACCAGAATGGAGAAC                           
+-|||--|---|-|----|-|---|--|||----------------------------
+CAAGAGGTAAGACCAATGACGGTCAACTT                            ",29.0,29.0
+TCAACTGGCAGTAACCAGAATGGAGAACG,Primer,140.0,29.0,1.0,48.275862068965516,34.48275862068966,"   TCAACTGGCAGTAACCAGAATGGAGAACG                         
+---||--|---|-|----|-|---|--||----------------------------
+GCAAGAGGTAAGACCAATGACGGTCAACT                            ",29.0,29.0
+CAACTGGCAGTAACCAGAATGGAGAACGC,Primer,141.0,29.0,1.0,51.724137931034484,41.37931034482759,"      CGCAAGAGGTAAGACCAATGACGGTCAAC                      
+------||--|--|||---|||--|--||----------------------------
+CAACTGGCAGTAACCAGAATGGAGAACGC                            ",29.0,29.0
+AACTGGCAGTAACCAGAATGGAGAACGCA,Primer,142.0,29.0,1.0,48.275862068965516,41.37931034482759,"    ACGCAAGAGGTAAGACCAATGACGGTCAA                        
+-----||--|--|||---|||--|--||-----------------------------
+AACTGGCAGTAACCAGAATGGAGAACGCA                            ",29.0,29.0
+ACTGGCAGTAACCAGAATGGAGAACGCAG,Primer,143.0,29.0,1.0,51.724137931034484,41.37931034482759,"  GACGCAAGAGGTAAGACCAATGACGGTCA                          
+----||--|--|||---|||--|--||------------------------------
+ACTGGCAGTAACCAGAATGGAGAACGCAG                            ",29.0,29.0
+AGATTCAACTGGCAGTAACCAGAATGGAGA,Primer,136.0,30.0,1.0,43.333333333333336,40.0,"   AGATTCAACTGGCAGTAACCAGAATGGAGA                          
+-----||||---|--|-|--|---||||-------------------------------
+AGAGGTAAGACCAATGACGGTCAACTTAGA                             ",30.0,30.0
+GATTCAACTGGCAGTAACCAGAATGGAGAA,Primer,137.0,30.0,1.0,43.333333333333336,40.0,"     GATTCAACTGGCAGTAACCAGAATGGAGAA                        
+------||||---|--|-|--|---||||------------------------------
+AAGAGGTAAGACCAATGACGGTCAACTTAG                             ",30.0,30.0
+ATTCAACTGGCAGTAACCAGAATGGAGAAC,Primer,138.0,30.0,1.0,43.333333333333336,40.0,"ATTCAACTGGCAGTAACCAGAATGGAGAAC                             
+-|||--|---|-|----|-|---|--|||------------------------------
+CAAGAGGTAAGACCAATGACGGTCAACTTA                             ",30.0,30.0
+TTCAACTGGCAGTAACCAGAATGGAGAACG,Primer,139.0,30.0,1.0,46.666666666666664,40.0,"  TTCAACTGGCAGTAACCAGAATGGAGAACG                           
+--|||--|---|-|----|-|---|--|||-----------------------------
+GCAAGAGGTAAGACCAATGACGGTCAACTT                             ",30.0,30.0
+TCAACTGGCAGTAACCAGAATGGAGAACGC,Primer,140.0,30.0,1.0,50.0,40.0,"       CGCAAGAGGTAAGACCAATGACGGTCAACT                      
+-------||--|--|||---|||--|--||-----------------------------
+TCAACTGGCAGTAACCAGAATGGAGAACGC                             ",30.0,30.0
+CAACTGGCAGTAACCAGAATGGAGAACGCA,Primer,141.0,30.0,1.0,50.0,40.0,"     ACGCAAGAGGTAAGACCAATGACGGTCAAC                        
+------||--|--|||---|||--|--||------------------------------
+CAACTGGCAGTAACCAGAATGGAGAACGCA                             ",30.0,30.0
+AACTGGCAGTAACCAGAATGGAGAACGCAG,Primer,142.0,30.0,1.0,50.0,40.0,"   GACGCAAGAGGTAAGACCAATGACGGTCAA                          
+-----||--|--|||---|||--|--||-------------------------------
+AACTGGCAGTAACCAGAATGGAGAACGCAG                             ",30.0,30.0
+ACTGGCAGTAACCAGAATGGAGAACGCAGT,Primer,143.0,30.0,1.0,50.0,40.0," TGACGCAAGAGGTAAGACCAATGACGGTCA                            
+----||--|--|||---|||--|--||--------------------------------
+ACTGGCAGTAACCAGAATGGAGAACGCAGT                             ",30.0,30.0
+AGATTCAACTGGCAGTAACCAGAATGGAGAA,Primer,136.0,31.0,1.0,41.935483870967744,38.70967741935484,"    AGATTCAACTGGCAGTAACCAGAATGGAGAA                          
+------||||---|--|-|--|---||||--------------------------------
+AAGAGGTAAGACCAATGACGGTCAACTTAGA                              ",31.0,31.0
+GATTCAACTGGCAGTAACCAGAATGGAGAAC,Primer,137.0,31.0,1.0,45.16129032258064,38.70967741935484,"      GATTCAACTGGCAGTAACCAGAATGGAGAAC                        
+-------||||---|--|-|--|---||||-------------------------------
+CAAGAGGTAAGACCAATGACGGTCAACTTAG                              ",31.0,31.0
+ATTCAACTGGCAGTAACCAGAATGGAGAACG,Primer,138.0,31.0,1.0,45.16129032258064,38.70967741935484," ATTCAACTGGCAGTAACCAGAATGGAGAACG                             
+--|||--|---|-|----|-|---|--|||-------------------------------
+GCAAGAGGTAAGACCAATGACGGTCAACTTA                              ",31.0,31.0
+TTCAACTGGCAGTAACCAGAATGGAGAACGC,Primer,139.0,31.0,1.0,48.38709677419355,38.70967741935484,"   TTCAACTGGCAGTAACCAGAATGGAGAACGC                           
+---|||--|---|-|----|-|---|--|||------------------------------
+CGCAAGAGGTAAGACCAATGACGGTCAACTT                              ",31.0,31.0
+TCAACTGGCAGTAACCAGAATGGAGAACGCA,Primer,140.0,31.0,1.0,48.38709677419355,38.70967741935484,"      ACGCAAGAGGTAAGACCAATGACGGTCAACT                        
+-------||--|--|||---|||--|--||-------------------------------
+TCAACTGGCAGTAACCAGAATGGAGAACGCA                              ",31.0,31.0
+CAACTGGCAGTAACCAGAATGGAGAACGCAG,Primer,141.0,31.0,1.0,51.61290322580645,38.70967741935484,"    GACGCAAGAGGTAAGACCAATGACGGTCAAC                          
+------||--|--|||---|||--|--||--------------------------------
+CAACTGGCAGTAACCAGAATGGAGAACGCAG                              ",31.0,31.0
+AACTGGCAGTAACCAGAATGGAGAACGCAGT,Primer,142.0,31.0,1.0,48.38709677419355,38.70967741935484,"  TGACGCAAGAGGTAAGACCAATGACGGTCAA                            
+-----||--|--|||---|||--|--||---------------------------------
+AACTGGCAGTAACCAGAATGGAGAACGCAGT                              ",31.0,31.0
+ACTGGCAGTAACCAGAATGGAGAACGCAGTG,Primer,143.0,31.0,1.0,51.61290322580645,38.70967741935484,"ACTGGCAGTAACCAGAATGGAGAACGCAGTG                              
+----||--|--|||---|||--|--||----------------------------------
+GTGACGCAAGAGGTAAGACCAATGACGGTCA                              ",31.0,31.0
+AGATTCAACTGGCAGTAACCAGAATGGAGAAC,Primer,136.0,32.0,1.0,43.75,37.5,"     AGATTCAACTGGCAGTAACCAGAATGGAGAAC                          
+-------||||---|--|-|--|---||||---------------------------------
+CAAGAGGTAAGACCAATGACGGTCAACTTAGA                               ",32.0,32.0
+GATTCAACTGGCAGTAACCAGAATGGAGAACG,Primer,137.0,32.0,1.0,46.875,37.5,"GATTCAACTGGCAGTAACCAGAATGGAGAACG                               
+--|||--|---|-|----|-|---|--|||---------------------------------
+GCAAGAGGTAAGACCAATGACGGTCAACTTAG                               ",32.0,32.0
+ATTCAACTGGCAGTAACCAGAATGGAGAACGC,Primer,138.0,32.0,1.0,46.875,37.5,"  ATTCAACTGGCAGTAACCAGAATGGAGAACGC                             
+---|||--|---|-|----|-|---|--|||--------------------------------
+CGCAAGAGGTAAGACCAATGACGGTCAACTTA                               ",32.0,32.0
+TTCAACTGGCAGTAACCAGAATGGAGAACGCA,Primer,139.0,32.0,1.0,46.875,37.5,"    TTCAACTGGCAGTAACCAGAATGGAGAACGCA                           
+----|||--|---|-|----|-|---|--|||-------------------------------
+ACGCAAGAGGTAAGACCAATGACGGTCAACTT                               ",32.0,32.0
+TCAACTGGCAGTAACCAGAATGGAGAACGCAG,Primer,140.0,32.0,1.0,50.0,37.5,"     GACGCAAGAGGTAAGACCAATGACGGTCAACT                          
+-------||--|--|||---|||--|--||---------------------------------
+TCAACTGGCAGTAACCAGAATGGAGAACGCAG                               ",32.0,32.0
+CAACTGGCAGTAACCAGAATGGAGAACGCAGT,Primer,141.0,32.0,1.0,50.0,37.5,"   TGACGCAAGAGGTAAGACCAATGACGGTCAAC                            
+------||--|--|||---|||--|--||----------------------------------
+CAACTGGCAGTAACCAGAATGGAGAACGCAGT                               ",32.0,32.0
+AACTGGCAGTAACCAGAATGGAGAACGCAGTG,Primer,142.0,32.0,1.0,50.0,37.5," GTGACGCAAGAGGTAAGACCAATGACGGTCAA                              
+-----||--|--|||---|||--|--||-----------------------------------
+AACTGGCAGTAACCAGAATGGAGAACGCAGTG                               ",32.0,32.0
+ACTGGCAGTAACCAGAATGGAGAACGCAGTGG,Primer,143.0,32.0,1.0,53.125,37.5," ACTGGCAGTAACCAGAATGGAGAACGCAGTGG                              
+-----||--|--|||---|||--|--||-----------------------------------
+GGTGACGCAAGAGGTAAGACCAATGACGGTCA                               ",32.0,32.0
+CTGGCAGTAACCAGAATGGAGAACGCAG,Primer,144.0,28.0,1.0,53.57142857142857,42.857142857142854," GACGCAAGAGGTAAGACCAATGACGGTC                          
+---||--|--|||---|||--|--||-----------------------------
+CTGGCAGTAACCAGAATGGAGAACGCAG                           ",28.0,28.0
+TGGCAGTAACCAGAATGGAGAACGCAGT,Primer,145.0,28.0,1.0,50.0,42.857142857142854," TGGCAGTAACCAGAATGGAGAACGCAGT                          
+---||--|--|||---|||--|--||-----------------------------
+TGACGCAAGAGGTAAGACCAATGACGGT                           ",28.0,28.0
+GGCAGTAACCAGAATGGAGAACGCAGTG,Primer,146.0,28.0,1.0,53.57142857142857,42.857142857142854,"   GGCAGTAACCAGAATGGAGAACGCAGTG                        
+----||--|--|||---|||--|--||----------------------------
+GTGACGCAAGAGGTAAGACCAATGACGG                           ",28.0,28.0
+GCAGTAACCAGAATGGAGAACGCAGTGG,Primer,147.0,28.0,1.0,53.57142857142857,42.857142857142854,"     GCAGTAACCAGAATGGAGAACGCAGTGG                      
+-----||--|--|||---|||--|--||---------------------------
+GGTGACGCAAGAGGTAAGACCAATGACG                           ",28.0,28.0
+CAGTAACCAGAATGGAGAACGCAGTGGG,Primer,148.0,28.0,1.0,53.57142857142857,35.714285714285715,"       CAGTAACCAGAATGGAGAACGCAGTGGG                    
+-------|--|--|||---|||--|--|---------------------------
+GGGTGACGCAAGAGGTAAGACCAATGAC                           ",28.0,28.0
+AGTAACCAGAATGGAGAACGCAGTGGGG,Primer,149.0,28.0,1.0,53.57142857142857,35.714285714285715,"     GGGGTGACGCAAGAGGTAAGACCAATGA                      
+-----||--|-||-------||-|--||---------------------------
+AGTAACCAGAATGGAGAACGCAGTGGGG                           ",28.0,28.0
+GTAACCAGAATGGAGAACGCAGTGGGGC,Primer,150.0,28.0,1.0,57.14285714285714,35.714285714285715,"   CGGGGTGACGCAAGAGGTAAGACCAATG                        
+----||--|-||-------||-|--||----------------------------
+GTAACCAGAATGGAGAACGCAGTGGGGC                           ",28.0,28.0
+TAACCAGAATGGAGAACGCAGTGGGGCG,Primer,151.0,28.0,1.0,57.14285714285714,35.714285714285715," GCGGGGTGACGCAAGAGGTAAGACCAAT                          
+---||--|-||-------||-|--||-----------------------------
+TAACCAGAATGGAGAACGCAGTGGGGCG                           ",28.0,28.0
+CTGGCAGTAACCAGAATGGAGAACGCAGT,Primer,144.0,29.0,1.0,51.724137931034484,41.37931034482759,"CTGGCAGTAACCAGAATGGAGAACGCAGT                            
+---||--|--|||---|||--|--||-------------------------------
+TGACGCAAGAGGTAAGACCAATGACGGTC                            ",29.0,29.0
+TGGCAGTAACCAGAATGGAGAACGCAGTG,Primer,145.0,29.0,1.0,51.724137931034484,41.37931034482759,"  TGGCAGTAACCAGAATGGAGAACGCAGTG                          
+----||--|--|||---|||--|--||------------------------------
+GTGACGCAAGAGGTAAGACCAATGACGGT                            ",29.0,29.0
+GGCAGTAACCAGAATGGAGAACGCAGTGG,Primer,146.0,29.0,1.0,55.172413793103445,41.37931034482759,"    GGCAGTAACCAGAATGGAGAACGCAGTGG                        
+-----||--|--|||---|||--|--||-----------------------------
+GGTGACGCAAGAGGTAAGACCAATGACGG                            ",29.0,29.0
+GCAGTAACCAGAATGGAGAACGCAGTGGG,Primer,147.0,29.0,1.0,55.172413793103445,41.37931034482759,"      GCAGTAACCAGAATGGAGAACGCAGTGGG                      
+------||--|--|||---|||--|--||----------------------------
+GGGTGACGCAAGAGGTAAGACCAATGACG                            ",29.0,29.0
+CAGTAACCAGAATGGAGAACGCAGTGGGG,Primer,148.0,29.0,1.0,55.172413793103445,34.48275862068966,"        CAGTAACCAGAATGGAGAACGCAGTGGGG                    
+--------|--|--|||---|||--|--|----------------------------
+GGGGTGACGCAAGAGGTAAGACCAATGAC                            ",29.0,29.0
+AGTAACCAGAATGGAGAACGCAGTGGGGC,Primer,149.0,29.0,1.0,55.172413793103445,34.48275862068966,"    CGGGGTGACGCAAGAGGTAAGACCAATGA                        
+-----||--|-||-------||-|--||-----------------------------
+AGTAACCAGAATGGAGAACGCAGTGGGGC                            ",29.0,29.0
+GTAACCAGAATGGAGAACGCAGTGGGGCG,Primer,150.0,29.0,1.0,58.620689655172406,34.48275862068966,"  GCGGGGTGACGCAAGAGGTAAGACCAATG                          
+----||--|-||-------||-|--||------------------------------
+GTAACCAGAATGGAGAACGCAGTGGGGCG                            ",29.0,29.0
+TAACCAGAATGGAGAACGCAGTGGGGCGC,Primer,151.0,29.0,1.0,58.620689655172406,34.48275862068966,"TAACCAGAATGGAGAACGCAGTGGGGCGC                            
+---||--|-||-------||-|--||-------------------------------
+CGCGGGGTGACGCAAGAGGTAAGACCAAT                            ",29.0,29.0
+CTGGCAGTAACCAGAATGGAGAACGCAGTG,Primer,144.0,30.0,1.0,53.333333333333336,40.0," CTGGCAGTAACCAGAATGGAGAACGCAGTG                            
+----||--|--|||---|||--|--||--------------------------------
+GTGACGCAAGAGGTAAGACCAATGACGGTC                             ",30.0,30.0
+TGGCAGTAACCAGAATGGAGAACGCAGTGG,Primer,145.0,30.0,1.0,53.333333333333336,40.0,"   TGGCAGTAACCAGAATGGAGAACGCAGTGG                          
+-----||--|--|||---|||--|--||-------------------------------
+GGTGACGCAAGAGGTAAGACCAATGACGGT                             ",30.0,30.0
+GGCAGTAACCAGAATGGAGAACGCAGTGGG,Primer,146.0,30.0,1.0,56.666666666666664,40.0,"     GGCAGTAACCAGAATGGAGAACGCAGTGGG                        
+------||--|--|||---|||--|--||------------------------------
+GGGTGACGCAAGAGGTAAGACCAATGACGG                             ",30.0,30.0
+GCAGTAACCAGAATGGAGAACGCAGTGGGG,Primer,147.0,30.0,1.0,56.666666666666664,40.0,"       GCAGTAACCAGAATGGAGAACGCAGTGGGG                      
+-------||--|--|||---|||--|--||-----------------------------
+GGGGTGACGCAAGAGGTAAGACCAATGACG                             ",30.0,30.0
+CAGTAACCAGAATGGAGAACGCAGTGGGGC,Primer,148.0,30.0,1.0,56.666666666666664,33.33333333333333,"         CAGTAACCAGAATGGAGAACGCAGTGGGGC                    
+---------|--|--|||---|||--|--|-----------------------------
+CGGGGTGACGCAAGAGGTAAGACCAATGAC                             ",30.0,30.0
+AGTAACCAGAATGGAGAACGCAGTGGGGCG,Primer,149.0,30.0,1.0,56.666666666666664,33.33333333333333,"   GCGGGGTGACGCAAGAGGTAAGACCAATGA                          
+-----||--|-||-------||-|--||-------------------------------
+AGTAACCAGAATGGAGAACGCAGTGGGGCG                             ",30.0,30.0
+CTGGCAGTAACCAGAATGGAGAACGCAGTGG,Primer,144.0,31.0,1.0,54.83870967741935,38.70967741935484,"  CTGGCAGTAACCAGAATGGAGAACGCAGTGG                            
+-----||--|--|||---|||--|--||---------------------------------
+GGTGACGCAAGAGGTAAGACCAATGACGGTC                              ",31.0,31.0
+TGGCAGTAACCAGAATGGAGAACGCAGTGGG,Primer,145.0,31.0,1.0,54.83870967741935,38.70967741935484,"    TGGCAGTAACCAGAATGGAGAACGCAGTGGG                          
+------||--|--|||---|||--|--||--------------------------------
+GGGTGACGCAAGAGGTAAGACCAATGACGGT                              ",31.0,31.0
+GGCAGTAACCAGAATGGAGAACGCAGTGGGG,Primer,146.0,31.0,1.0,58.06451612903226,38.70967741935484,"      GGCAGTAACCAGAATGGAGAACGCAGTGGGG                        
+-------||--|--|||---|||--|--||-------------------------------
+GGGGTGACGCAAGAGGTAAGACCAATGACGG                              ",31.0,31.0
+GCAGTAACCAGAATGGAGAACGCAGTGGGGC,Primer,147.0,31.0,1.0,58.06451612903226,38.70967741935484,"        GCAGTAACCAGAATGGAGAACGCAGTGGGGC                      
+--------||--|--|||---|||--|--||------------------------------
+CGGGGTGACGCAAGAGGTAAGACCAATGACG                              ",31.0,31.0
+CAGTAACCAGAATGGAGAACGCAGTGGGGCG,Primer,148.0,31.0,1.0,58.06451612903226,32.25806451612903,"          CAGTAACCAGAATGGAGAACGCAGTGGGGCG                    
+----------|--|--|||---|||--|--|------------------------------
+GCGGGGTGACGCAAGAGGTAAGACCAATGAC                              ",31.0,31.0
+AGTAACCAGAATGGAGAACGCAGTGGGGCGC,Primer,149.0,31.0,1.0,58.06451612903226,32.25806451612903,"  CGCGGGGTGACGCAAGAGGTAAGACCAATGA                            
+-----||--|-||-------||-|--||---------------------------------
+AGTAACCAGAATGGAGAACGCAGTGGGGCGC                              ",31.0,31.0
+TAACCAGAATGGAGAACGCAGTGGGGCGCGA,Primer,151.0,31.0,1.0,58.06451612903226,32.25806451612903,"  TAACCAGAATGGAGAACGCAGTGGGGCGCGA                            
+-----||--|-||-------||-|--||---------------------------------
+AGCGCGGGGTGACGCAAGAGGTAAGACCAAT                              ",31.0,31.0
+CTGGCAGTAACCAGAATGGAGAACGCAGTGGG,Primer,144.0,32.0,1.0,56.25,37.5,"   CTGGCAGTAACCAGAATGGAGAACGCAGTGGG                            
+------||--|--|||---|||--|--||----------------------------------
+GGGTGACGCAAGAGGTAAGACCAATGACGGTC                               ",32.0,32.0
+TGGCAGTAACCAGAATGGAGAACGCAGTGGGG,Primer,145.0,32.0,1.0,56.25,37.5,"     TGGCAGTAACCAGAATGGAGAACGCAGTGGGG                          
+-------||--|--|||---|||--|--||---------------------------------
+GGGGTGACGCAAGAGGTAAGACCAATGACGGT                               ",32.0,32.0
+GGCAGTAACCAGAATGGAGAACGCAGTGGGGC,Primer,146.0,32.0,1.0,59.375,37.5,"       GGCAGTAACCAGAATGGAGAACGCAGTGGGGC                        
+--------||--|--|||---|||--|--||--------------------------------
+CGGGGTGACGCAAGAGGTAAGACCAATGACGG                               ",32.0,32.0
+GCAGTAACCAGAATGGAGAACGCAGTGGGGCG,Primer,147.0,32.0,1.0,59.375,37.5,"         GCAGTAACCAGAATGGAGAACGCAGTGGGGCG                      
+---------||--|--|||---|||--|--||-------------------------------
+GCGGGGTGACGCAAGAGGTAAGACCAATGACG                               ",32.0,32.0
+CAGTAACCAGAATGGAGAACGCAGTGGGGCGC,Primer,148.0,32.0,1.0,59.375,31.25,"           CAGTAACCAGAATGGAGAACGCAGTGGGGCGC                    
+-----------|--|--|||---|||--|--|-------------------------------
+CGCGGGGTGACGCAAGAGGTAAGACCAATGAC                               ",32.0,32.0
+AGTAACCAGAATGGAGAACGCAGTGGGGCGCG,Primer,149.0,32.0,1.0,59.375,31.25," GCGCGGGGTGACGCAAGAGGTAAGACCAATGA                              
+-----||--|-||-------||-|--||-----------------------------------
+AGTAACCAGAATGGAGAACGCAGTGGGGCGCG                               ",32.0,32.0
+GTAACCAGAATGGAGAACGCAGTGGGGCGCGA,Primer,150.0,32.0,1.0,59.375,31.25," GTAACCAGAATGGAGAACGCAGTGGGGCGCGA                              
+-----||--|-||-------||-|--||-----------------------------------
+AGCGCGGGGTGACGCAAGAGGTAAGACCAATG                               ",32.0,32.0
+TAACCAGAATGGAGAACGCAGTGGGGCGCGAT,Primer,151.0,32.0,1.0,56.25,31.25,"   TAACCAGAATGGAGAACGCAGTGGGGCGCGAT                            
+------||--|-||-------||-|--||----------------------------------
+TAGCGCGGGGTGACGCAAGAGGTAAGACCAAT                               ",32.0,32.0
+AATGGAGAACGCAGTGGGGCGCGATCAA,Primer,158.0,28.0,1.0,57.14285714285714,42.857142857142854,"  AACTAGCGCGGGGTGACGCAAGAGGTAA                         
+--|-||---|||------|||---||-|---------------------------
+AATGGAGAACGCAGTGGGGCGCGATCAA                           ",28.0,28.0
+ATGGAGAACGCAGTGGGGCGCGATCAAA,Primer,159.0,28.0,1.0,57.14285714285714,42.857142857142854,"ATGGAGAACGCAGTGGGGCGCGATCAAA                           
+-|-||---|||------|||---||-|----------------------------
+AAACTAGCGCGGGGTGACGCAAGAGGTA                           ",28.0,28.0
+AGAATGGAGAACGCAGTGGGGCGCGATCA,Primer,156.0,29.0,1.0,58.620689655172406,34.48275862068966,"AGAATGGAGAACGCAGTGGGGCGCGATCA                            
+-||--|-----|-|-|-|-----|--||-----------------------------
+ACTAGCGCGGGGTGACGCAAGAGGTAAGA                            ",29.0,29.0
+GAATGGAGAACGCAGTGGGGCGCGATCAA,Primer,157.0,29.0,1.0,58.620689655172406,41.37931034482759,"   AACTAGCGCGGGGTGACGCAAGAGGTAAG                         
+---|-||---|||------|||---||-|----------------------------
+GAATGGAGAACGCAGTGGGGCGCGATCAA                            ",29.0,29.0
+AATGGAGAACGCAGTGGGGCGCGATCAAA,Primer,158.0,29.0,1.0,55.172413793103445,41.37931034482759," AAACTAGCGCGGGGTGACGCAAGAGGTAA                           
+--|-||---|||------|||---||-|-----------------------------
+AATGGAGAACGCAGTGGGGCGCGATCAAA                            ",29.0,29.0
+ATGGAGAACGCAGTGGGGCGCGATCAAAA,Primer,159.0,29.0,1.0,55.172413793103445,41.37931034482759," ATGGAGAACGCAGTGGGGCGCGATCAAAA                           
+--|-||---|||------|||---||-|-----------------------------
+AAAACTAGCGCGGGGTGACGCAAGAGGTA                            ",29.0,29.0
+AGAATGGAGAACGCAGTGGGGCGCGATCAA,Primer,156.0,30.0,1.0,56.666666666666664,40.0,"    AACTAGCGCGGGGTGACGCAAGAGGTAAGA                         
+----|-||---|||------|||---||-|-----------------------------
+AGAATGGAGAACGCAGTGGGGCGCGATCAA                             ",30.0,30.0
+GAATGGAGAACGCAGTGGGGCGCGATCAAA,Primer,157.0,30.0,1.0,56.666666666666664,40.0,"  AAACTAGCGCGGGGTGACGCAAGAGGTAAG                           
+---|-||---|||------|||---||-|------------------------------
+GAATGGAGAACGCAGTGGGGCGCGATCAAA                             ",30.0,30.0
+AATGGAGAACGCAGTGGGGCGCGATCAAAA,Primer,158.0,30.0,1.0,53.333333333333336,40.0,"AATGGAGAACGCAGTGGGGCGCGATCAAAA                             
+--|-||---|||------|||---||-|-------------------------------
+AAAACTAGCGCGGGGTGACGCAAGAGGTAA                             ",30.0,30.0
+ATGGAGAACGCAGTGGGGCGCGATCAAAAC,Primer,159.0,30.0,1.0,56.666666666666664,40.0,"ATGGAGAACGCAGTGGGGCGCGATCAAAAC                             
+-|---||-|||--------|||-||---|------------------------------
+CAAAACTAGCGCGGGGTGACGCAAGAGGTA                             ",30.0,30.0
+AACCAGAATGGAGAACGCAGTGGGGCGCGAT,Primer,152.0,31.0,1.0,58.06451612903226,32.25806451612903,"    AACCAGAATGGAGAACGCAGTGGGGCGCGAT                          
+------||--|-||-------||-|--||--------------------------------
+TAGCGCGGGGTGACGCAAGAGGTAAGACCAA                              ",31.0,31.0
+CAGAATGGAGAACGCAGTGGGGCGCGATCAA,Primer,155.0,31.0,1.0,58.06451612903226,38.70967741935484,"     AACTAGCGCGGGGTGACGCAAGAGGTAAGAC                         
+-----|-||---|||------|||---||-|------------------------------
+CAGAATGGAGAACGCAGTGGGGCGCGATCAA                              ",31.0,31.0
+AGAATGGAGAACGCAGTGGGGCGCGATCAAA,Primer,156.0,31.0,1.0,54.83870967741935,38.70967741935484,"   AAACTAGCGCGGGGTGACGCAAGAGGTAAGA                           
+----|-||---|||------|||---||-|-------------------------------
+AGAATGGAGAACGCAGTGGGGCGCGATCAAA                              ",31.0,31.0
+GAATGGAGAACGCAGTGGGGCGCGATCAAAA,Primer,157.0,31.0,1.0,54.83870967741935,38.70967741935484," AAAACTAGCGCGGGGTGACGCAAGAGGTAAG                             
+---|-||---|||------|||---||-|--------------------------------
+GAATGGAGAACGCAGTGGGGCGCGATCAAAA                              ",31.0,31.0
+AATGGAGAACGCAGTGGGGCGCGATCAAAAC,Primer,158.0,31.0,1.0,54.83870967741935,38.70967741935484," AATGGAGAACGCAGTGGGGCGCGATCAAAAC                             
+---|-||---|||------|||---||-|--------------------------------
+CAAAACTAGCGCGGGGTGACGCAAGAGGTAA                              ",31.0,31.0
+ATGGAGAACGCAGTGGGGCGCGATCAAAACA,Primer,159.0,31.0,1.0,54.83870967741935,38.70967741935484," ATGGAGAACGCAGTGGGGCGCGATCAAAACA                             
+--|---||-|||--------|||-||---|-------------------------------
+ACAAAACTAGCGCGGGGTGACGCAAGAGGTA                              ",31.0,31.0
+AACCAGAATGGAGAACGCAGTGGGGCGCGATC,Primer,152.0,32.0,1.0,59.375,31.25,"     AACCAGAATGGAGAACGCAGTGGGGCGCGATC                          
+-------||--|-||-------||-|--||---------------------------------
+CTAGCGCGGGGTGACGCAAGAGGTAAGACCAA                               ",32.0,32.0
+ACCAGAATGGAGAACGCAGTGGGGCGCGATCA,Primer,153.0,32.0,1.0,59.375,31.25,"       ACCAGAATGGAGAACGCAGTGGGGCGCGATCA                        
+--------||--|-||-------||-|--||--------------------------------
+ACTAGCGCGGGGTGACGCAAGAGGTAAGACCA                               ",32.0,32.0
+CCAGAATGGAGAACGCAGTGGGGCGCGATCAA,Primer,154.0,32.0,1.0,59.375,37.5,"      AACTAGCGCGGGGTGACGCAAGAGGTAAGACC                         
+------|-||---|||------|||---||-|-------------------------------
+CCAGAATGGAGAACGCAGTGGGGCGCGATCAA                               ",32.0,32.0
+CAGAATGGAGAACGCAGTGGGGCGCGATCAAA,Primer,155.0,32.0,1.0,56.25,37.5,"    AAACTAGCGCGGGGTGACGCAAGAGGTAAGAC                           
+-----|-||---|||------|||---||-|--------------------------------
+CAGAATGGAGAACGCAGTGGGGCGCGATCAAA                               ",32.0,32.0
+AGAATGGAGAACGCAGTGGGGCGCGATCAAAA,Primer,156.0,32.0,1.0,53.125,37.5,"  AAAACTAGCGCGGGGTGACGCAAGAGGTAAGA                             
+----|-||---|||------|||---||-|---------------------------------
+AGAATGGAGAACGCAGTGGGGCGCGATCAAAA                               ",32.0,32.0
+GAATGGAGAACGCAGTGGGGCGCGATCAAAAC,Primer,157.0,32.0,1.0,56.25,43.75,"GAATGGAGAACGCAGTGGGGCGCGATCAAAAC                               
+|--|-||---|||------|||---||-|--|-------------------------------
+CAAAACTAGCGCGGGGTGACGCAAGAGGTAAG                               ",32.0,32.0
+AATGGAGAACGCAGTGGGGCGCGATCAAAACA,Primer,158.0,32.0,1.0,53.125,37.5,"AATGGAGAACGCAGTGGGGCGCGATCAAAACA                               
+--|---||-|||--------|||-||---|---------------------------------
+ACAAAACTAGCGCGGGGTGACGCAAGAGGTAA                               ",32.0,32.0
+ATGGAGAACGCAGTGGGGCGCGATCAAAACAA,Primer,159.0,32.0,1.0,53.125,37.5,"  ATGGAGAACGCAGTGGGGCGCGATCAAAACAA                             
+---|---||-|||--------|||-||---|--------------------------------
+AACAAAACTAGCGCGGGGTGACGCAAGAGGTA                               ",32.0,32.0
+TGGAGAACGCAGTGGGGCGCGATCAAAA,Primer,160.0,28.0,1.0,57.14285714285714,42.857142857142854,"TGGAGAACGCAGTGGGGCGCGATCAAAA                           
+|---||-|||--------|||-||---|---------------------------
+AAAACTAGCGCGGGGTGACGCAAGAGGT                           ",28.0,28.0
+GAGAACGCAGTGGGGCGCGATCAAAACA,Primer,162.0,28.0,1.0,57.14285714285714,35.714285714285715,"    GAGAACGCAGTGGGGCGCGATCAAAACA                       
+------||-|||--------|||-||-----------------------------
+ACAAAACTAGCGCGGGGTGACGCAAGAG                           ",28.0,28.0
+AGAACGCAGTGGGGCGCGATCAAAACAA,Primer,163.0,28.0,1.0,53.57142857142857,35.714285714285715,"      AGAACGCAGTGGGGCGCGATCAAAACAA                     
+-------||-|||--------|||-||----------------------------
+AACAAAACTAGCGCGGGGTGACGCAAGA                           ",28.0,28.0
+GAACGCAGTGGGGCGCGATCAAAACAAC,Primer,164.0,28.0,1.0,57.14285714285714,35.714285714285715,"        GAACGCAGTGGGGCGCGATCAAAACAAC                   
+--------||-|||--------|||-||---------------------------
+CAACAAAACTAGCGCGGGGTGACGCAAG                           ",28.0,28.0
+AACGCAGTGGGGCGCGATCAAAACAACG,Primer,165.0,28.0,1.0,57.14285714285714,42.857142857142854,"  GCAACAAAACTAGCGCGGGGTGACGCAA                         
+--||--||---|--||--|---||--||---------------------------
+AACGCAGTGGGGCGCGATCAAAACAACG                           ",28.0,28.0
+ACGCAGTGGGGCGCGATCAAAACAACGT,Primer,166.0,28.0,1.0,57.14285714285714,50.0,"ACGCAGTGGGGCGCGATCAAAACAACGT                           
+|||--||---|--||--|---||--|||---------------------------
+TGCAACAAAACTAGCGCGGGGTGACGCA                           ",28.0,28.0
+TGGAGAACGCAGTGGGGCGCGATCAAAAC,Primer,160.0,29.0,1.0,58.620689655172406,41.37931034482759," TGGAGAACGCAGTGGGGCGCGATCAAAAC                           
+-|---||-|||--------|||-||---|----------------------------
+CAAAACTAGCGCGGGGTGACGCAAGAGGT                            ",29.0,29.0
+GGAGAACGCAGTGGGGCGCGATCAAAACA,Primer,161.0,29.0,1.0,58.620689655172406,34.48275862068966,"   GGAGAACGCAGTGGGGCGCGATCAAAACA                         
+------||-|||--------|||-||-------------------------------
+ACAAAACTAGCGCGGGGTGACGCAAGAGG                            ",29.0,29.0
+GAGAACGCAGTGGGGCGCGATCAAAACAA,Primer,162.0,29.0,1.0,55.172413793103445,34.48275862068966,"     GAGAACGCAGTGGGGCGCGATCAAAACAA                       
+-------||-|||--------|||-||------------------------------
+AACAAAACTAGCGCGGGGTGACGCAAGAG                            ",29.0,29.0
+AGAACGCAGTGGGGCGCGATCAAAACAAC,Primer,163.0,29.0,1.0,55.172413793103445,34.48275862068966,"       AGAACGCAGTGGGGCGCGATCAAAACAAC                     
+--------||-|||--------|||-||-----------------------------
+CAACAAAACTAGCGCGGGGTGACGCAAGA                            ",29.0,29.0
+GAACGCAGTGGGGCGCGATCAAAACAACG,Primer,164.0,29.0,1.0,58.620689655172406,41.37931034482759,"   GCAACAAAACTAGCGCGGGGTGACGCAAG                         
+---||--||---|--||--|---||--||----------------------------
+GAACGCAGTGGGGCGCGATCAAAACAACG                            ",29.0,29.0
+AACGCAGTGGGGCGCGATCAAAACAACGT,Primer,165.0,29.0,1.0,55.172413793103445,48.275862068965516," TGCAACAAAACTAGCGCGGGGTGACGCAA                           
+-|||--||---|--||--|---||--|||----------------------------
+AACGCAGTGGGGCGCGATCAAAACAACGT                            ",29.0,29.0
+ACGCAGTGGGGCGCGATCAAAACAACGTC,Primer,166.0,29.0,1.0,58.620689655172406,48.275862068965516," ACGCAGTGGGGCGCGATCAAAACAACGTC                           
+-|||--||---|--||--|---||--|||----------------------------
+CTGCAACAAAACTAGCGCGGGGTGACGCA                            ",29.0,29.0
+TGGAGAACGCAGTGGGGCGCGATCAAAACA,Primer,160.0,30.0,1.0,56.666666666666664,40.0,"  TGGAGAACGCAGTGGGGCGCGATCAAAACA                           
+--|---||-|||--------|||-||---|-----------------------------
+ACAAAACTAGCGCGGGGTGACGCAAGAGGT                             ",30.0,30.0
+GGAGAACGCAGTGGGGCGCGATCAAAACAA,Primer,161.0,30.0,1.0,56.666666666666664,33.33333333333333,"    GGAGAACGCAGTGGGGCGCGATCAAAACAA                         
+-------||-|||--------|||-||--------------------------------
+AACAAAACTAGCGCGGGGTGACGCAAGAGG                             ",30.0,30.0
+GAGAACGCAGTGGGGCGCGATCAAAACAAC,Primer,162.0,30.0,1.0,56.666666666666664,33.33333333333333,"      GAGAACGCAGTGGGGCGCGATCAAAACAAC                       
+--------||-|||--------|||-||-------------------------------
+CAACAAAACTAGCGCGGGGTGACGCAAGAG                             ",30.0,30.0
+AGAACGCAGTGGGGCGCGATCAAAACAACG,Primer,163.0,30.0,1.0,56.666666666666664,40.0,"    GCAACAAAACTAGCGCGGGGTGACGCAAGA                         
+----||--||---|--||--|---||--||-----------------------------
+AGAACGCAGTGGGGCGCGATCAAAACAACG                             ",30.0,30.0
+GAACGCAGTGGGGCGCGATCAAAACAACGT,Primer,164.0,30.0,1.0,56.666666666666664,46.666666666666664,"  TGCAACAAAACTAGCGCGGGGTGACGCAAG                           
+--|||--||---|--||--|---||--|||-----------------------------
+GAACGCAGTGGGGCGCGATCAAAACAACGT                             ",30.0,30.0
+AACGCAGTGGGGCGCGATCAAAACAACGTC,Primer,165.0,30.0,1.0,56.666666666666664,46.666666666666664,"AACGCAGTGGGGCGCGATCAAAACAACGTC                             
+-|||--||---|--||--|---||--|||------------------------------
+CTGCAACAAAACTAGCGCGGGGTGACGCAA                             ",30.0,30.0
+TGGAGAACGCAGTGGGGCGCGATCAAAACAA,Primer,160.0,31.0,1.0,54.83870967741935,38.70967741935484,"   TGGAGAACGCAGTGGGGCGCGATCAAAACAA                           
+---|---||-|||--------|||-||---|------------------------------
+AACAAAACTAGCGCGGGGTGACGCAAGAGGT                              ",31.0,31.0
+GGAGAACGCAGTGGGGCGCGATCAAAACAAC,Primer,161.0,31.0,1.0,58.06451612903226,32.25806451612903,"GGAGAACGCAGTGGGGCGCGATCAAAACAAC                              
+|--|-----|--|-|-|-|--|-----|--|------------------------------
+CAACAAAACTAGCGCGGGGTGACGCAAGAGG                              ",31.0,31.0
+GAGAACGCAGTGGGGCGCGATCAAAACAACG,Primer,162.0,31.0,1.0,58.06451612903226,38.70967741935484,"     GCAACAAAACTAGCGCGGGGTGACGCAAGAG                         
+-----||--||---|--||--|---||--||------------------------------
+GAGAACGCAGTGGGGCGCGATCAAAACAACG                              ",31.0,31.0
+AGAACGCAGTGGGGCGCGATCAAAACAACGT,Primer,163.0,31.0,1.0,54.83870967741935,45.16129032258064,"   TGCAACAAAACTAGCGCGGGGTGACGCAAGA                           
+---|||--||---|--||--|---||--|||------------------------------
+AGAACGCAGTGGGGCGCGATCAAAACAACGT                              ",31.0,31.0
+GAACGCAGTGGGGCGCGATCAAAACAACGTC,Primer,164.0,31.0,1.0,58.06451612903226,45.16129032258064," CTGCAACAAAACTAGCGCGGGGTGACGCAAG                             
+--|||--||---|--||--|---||--|||-------------------------------
+GAACGCAGTGGGGCGCGATCAAAACAACGTC                              ",31.0,31.0
+AACGCAGTGGGGCGCGATCAAAACAACGTCG,Primer,165.0,31.0,1.0,58.06451612903226,45.16129032258064," AACGCAGTGGGGCGCGATCAAAACAACGTCG                             
+--|||--||---|--||--|---||--|||-------------------------------
+GCTGCAACAAAACTAGCGCGGGGTGACGCAA                              ",31.0,31.0
+TGGAGAACGCAGTGGGGCGCGATCAAAACAAC,Primer,160.0,32.0,1.0,56.25,37.5,"    TGGAGAACGCAGTGGGGCGCGATCAAAACAAC                           
+----|---||-|||--------|||-||---|-------------------------------
+CAACAAAACTAGCGCGGGGTGACGCAAGAGGT                               ",32.0,32.0
+GGAGAACGCAGTGGGGCGCGATCAAAACAACG,Primer,161.0,32.0,1.0,59.375,37.5,"      GCAACAAAACTAGCGCGGGGTGACGCAAGAGG                         
+------||--||---|--||--|---||--||-------------------------------
+GGAGAACGCAGTGGGGCGCGATCAAAACAACG                               ",32.0,32.0
+GAGAACGCAGTGGGGCGCGATCAAAACAACGT,Primer,162.0,32.0,1.0,56.25,43.75,"    TGCAACAAAACTAGCGCGGGGTGACGCAAGAG                           
+----|||--||---|--||--|---||--|||-------------------------------
+GAGAACGCAGTGGGGCGCGATCAAAACAACGT                               ",32.0,32.0
+AGAACGCAGTGGGGCGCGATCAAAACAACGTC,Primer,163.0,32.0,1.0,56.25,43.75,"  CTGCAACAAAACTAGCGCGGGGTGACGCAAGA                             
+---|||--||---|--||--|---||--|||--------------------------------
+AGAACGCAGTGGGGCGCGATCAAAACAACGTC                               ",32.0,32.0
+GAACGCAGTGGGGCGCGATCAAAACAACGTCG,Primer,164.0,32.0,1.0,59.375,43.75,"GAACGCAGTGGGGCGCGATCAAAACAACGTCG                               
+--|||--||---|--||--|---||--|||---------------------------------
+GCTGCAACAAAACTAGCGCGGGGTGACGCAAG                               ",32.0,32.0
+AACGCAGTGGGGCGCGATCAAAACAACGTCGG,Primer,165.0,32.0,1.0,59.375,43.75,"  AACGCAGTGGGGCGCGATCAAAACAACGTCGG                             
+---|||--||---|--||--|---||--|||--------------------------------
+GGCTGCAACAAAACTAGCGCGGGGTGACGCAA                               ",32.0,32.0
+GCGATCAAAACAACGTCGGCCCCAAGGT,Primer,178.0,28.0,1.0,57.14285714285714,35.714285714285715,"GCGATCAAAACAACGTCGGCCCCAAGGT                           
+-|--|-----|-||||-|-----|--|----------------------------
+TGGAACCCCGGCTGCAACAAAACTAGCG                           ",28.0,28.0
+CGATCAAAACAACGTCGGCCCCAAGGTT,Primer,179.0,28.0,1.0,53.57142857142857,42.857142857142854,"          TTGGAACCCCGGCTGCAACAAAACTAGC                 
+----------|||-|-||--||-|-|||---------------------------
+CGATCAAAACAACGTCGGCCCCAAGGTT                           ",28.0,28.0
+GATCAAAACAACGTCGGCCCCAAGGTTT,Primer,180.0,28.0,1.0,50.0,42.857142857142854,"     TTTGGAACCCCGGCTGCAACAAAACTAG                      
+-----||||---|--|-|--|---||||---------------------------
+GATCAAAACAACGTCGGCCCCAAGGTTT                           ",28.0,28.0
+ATCAAAACAACGTCGGCCCCAAGGTTTA,Primer,181.0,28.0,1.0,46.42857142857143,42.857142857142854,"   ATTTGGAACCCCGGCTGCAACAAAACTA                        
+----||||---|--|-|--|---||||----------------------------
+ATCAAAACAACGTCGGCCCCAAGGTTTA                           ",28.0,28.0
+CGCGATCAAAACAACGTCGGCCCCAAGGT,Primer,177.0,29.0,1.0,58.620689655172406,34.48275862068966," TGGAACCCCGGCTGCAACAAAACTAGCGC                           
+--|--|-----|-||||-|-----|--|-----------------------------
+CGCGATCAAAACAACGTCGGCCCCAAGGT                            ",29.0,29.0
+GCGATCAAAACAACGTCGGCCCCAAGGTT,Primer,178.0,29.0,1.0,55.172413793103445,41.37931034482759,"           TTGGAACCCCGGCTGCAACAAAACTAGCG                 
+-----------|||-|-||--||-|-|||----------------------------
+GCGATCAAAACAACGTCGGCCCCAAGGTT                            ",29.0,29.0
+CGATCAAAACAACGTCGGCCCCAAGGTTT,Primer,179.0,29.0,1.0,51.724137931034484,41.37931034482759,"      TTTGGAACCCCGGCTGCAACAAAACTAGC                      
+------||||---|--|-|--|---||||----------------------------
+CGATCAAAACAACGTCGGCCCCAAGGTTT                            ",29.0,29.0
+CGCGATCAAAACAACGTCGGCCCCAAGGTT,Primer,177.0,30.0,1.0,56.666666666666664,40.0,"            TTGGAACCCCGGCTGCAACAAAACTAGCGC                 
+------------|||-|-||--||-|-|||-----------------------------
+CGCGATCAAAACAACGTCGGCCCCAAGGTT                             ",30.0,30.0
